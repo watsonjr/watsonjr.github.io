@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
+excerpt: "We study the dynamics of complex adaptive systems to improve the well-being of people around the  world"
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
   feature: so-simple-sample-image-4.jpg
@@ -9,18 +9,5 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+My research uses tools from the social, ecological and economic sciences to understand the           functioning of Complex Adaptive Systems. These systems are all around us, including the global       financial system, the human immune system and ecosystems. I am interested in learning from all these systems, but with a focus on social-ecological systems. My aim is to improve our understanding how   humans can live sustainably and with dignity. My projects span specific systems, from Southern       California and the Baltic Sea, to whole regions like the U.S. west coast and the Arctic, to global   studies. I am committed to effective science communication, and through the Stockholm Resilience     Centre we actively pursue partnerships with government, NGO and community organizations to link my   science to those who make a difference on the ground.
 
-## So Simple Theme is all about:
-
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
-
-[^1]: Example: *domain.com/category-name/post-title*
