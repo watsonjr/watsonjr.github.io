@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Complex Adaptive Systems
+title: Complex Adaptive Solutions
 locale: en_US
-description: The Watson Group
+description: The Watson Lab
 logo: site-logo.png
 search: true
 url: http://localhost:4000
