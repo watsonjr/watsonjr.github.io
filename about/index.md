@@ -1,10 +1,11 @@
 ---
 layout: page
-title: About the Jekyll Theme
+title: Complex Adaptive Solutions
 excerpt: "We study the dynamics of complex adaptive systems to improve the well-being of people around the  world"
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
-  feature: so-simple-sample-image-4.jpg
+  feature: DSC_3510.JPG
+  # (feature: so-simple-sample-image-4.jpg)
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
