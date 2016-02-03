@@ -14,4 +14,5 @@ My research uses tools from the social, ecological and economic sciences to unde
 
 image:
   feature: site-logo.jpg
+  thumb: site-logo.jpg
 
