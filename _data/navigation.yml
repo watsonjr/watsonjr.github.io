@@ -3,16 +3,20 @@
 - title: About
   url: /about/
 
-#- title: Articles
-#  url: /articles/
-- title: Research
-  url: /research/
-
 - title: Updates
   url: /updates/
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Research
+  url: /research/
+
+- title: People
+  url: /people/
+
+- title: Apply
+  url: /apply/
+
+- title: Resources
+  url: /resources/
 
 - title: Search
   url: /search/
