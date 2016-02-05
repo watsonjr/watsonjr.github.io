@@ -7,6 +7,8 @@ image:
   feature: DSC_3510.JPG
 ---
 
+<img style="float: right" src="james_watson_lowres_head.jpg" width="25%" />
+
 ## James Watson
 __Forskare__ / __Researcher__ <br>
 Stockholm Resilience Centre <br>
