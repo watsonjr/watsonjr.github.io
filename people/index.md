@@ -7,21 +7,21 @@ image:
   feature: DSC_3510.JPG
 ---
 
-<img style="float: right" src="james_watson_lowres_head.jpg" width="25%" />
 
 ## James Watson
 __Forskare__ / __Researcher__ <br>
+<img style="float: right" src="james_watson_lowres_head.jpg" width="25%" />
 Stockholm Resilience Centre <br>
 Stockholm University, Sweden
 
-__Visiting Scholar__ <br>
-Department of Ecology and Evolutionary Biology <br>
-Princeton University, Princeton, USA
+__Assistant Professor__<br>
+(Starting 2017)
+College of Earth, Ocean and Atmospheric Sciences
+Oregon State University, USA
+_email:_ james.watson@su.se, jrwatson@coas.oregonstate.edu
 
-_email:_ <td>&nbsp;</td><mailto:james.watson@su.se>, <mailto:jrwatson@princeton.edu><br>
-_tel:_ <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>+1 805 699 5453, +46 707 73 86 12
 
-<hr color=#3366CC size=5 width=300 style="float: left"><br>
+## Collaborators
 The following is a list of people I have __active__ projects with. See the links page for a list of my past collaborations.
 
 __Simon Levin__<br>
@@ -86,13 +86,10 @@ Stockholm Resilience Centre<br>
 Post-doc, [link to website](http://www.stockholmresilience.org/contact/staff/niiranen.5.7549e4d91267b3b988780002234.html)<br>
 Susa and I are part of the GreenMar Nordic project. We are looking at how the Arctic social-ecological system will change in the coming decades
 
-__Jean-Baptiste Jouffray__<br>
-Stockholm Resilience Centre<br>
-M.Sc in Ecology, [link to website](http://www.kva.se/en/contact/Kontakt-sida/?personId=4170)<br>
-We're working together on modeling coral ecosystems
+__Dane Klinger__<br>
+Princeton University<br>
+Post-doc in the Levin Lab<br>
+We are working on projecting off-shore aquaculture production into the future. We are also interested in understanding how financial instruments, like futures, can be used for sustainability.
 
-__Roweena Patel__<br>
-Stockholm Resilience Centre<br>
-Masters student in Social-Ecological Resilience for Sustainable Development
 
 
