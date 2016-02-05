@@ -23,6 +23,6 @@ My wife [Jodi Elliott](http://www.youtube.com/watch?v=EC71w4TFnag)
 [Python](http://www.numpy.org/)
 
 ### Past affiliations
-<img style="float: left" src="images/logos.jpg" width="60%" />
+<img style="float: left" src="logos.jpg" width="60%" />
 
 
