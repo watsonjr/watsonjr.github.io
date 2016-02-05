@@ -9,18 +9,19 @@ image:
 
 
 ## James Watson
-__Forskare__ / __Researcher__ <br>
 <img style="float: right" src="james_watson_lowres_head.jpg" width="25%" />
+__Forskare__ / __Researcher__ <br>
 Stockholm Resilience Centre <br>
 Stockholm University, Sweden
 
 __Assistant Professor__<br>
-(Starting 2017)
-College of Earth, Ocean and Atmospheric Sciences
-Oregon State University, USA
+(Starting 2017)<br>
+College of Earth, Ocean and Atmospheric Sciences<br>
+Oregon State University, USA<br>
 _email:_ james.watson@su.se, jrwatson@coas.oregonstate.edu
 
 
+\
 ## Collaborators
 The following is a list of people I have __active__ projects with. See the links page for a list of my past collaborations.
 
