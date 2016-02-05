@@ -49,9 +49,9 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
+  name: James Watson
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: james.watson@su.se
   disqus-shortname:
   twitter: #username
   facebook: #username
