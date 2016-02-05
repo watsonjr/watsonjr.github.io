@@ -18,10 +18,12 @@ __Assistant Professor__<br>
 (Starting 2017)<br>
 College of Earth, Ocean and Atmospheric Sciences<br>
 Oregon State University, USA<br>
-_email:_ james.watson@su.se, jrwatson@coas.oregonstate.edu
+_email:_ james.watson@su.se, jrwatson@coas.oregonstate.edu<br>
 
 
-\
+
+
+
 ## Collaborators
 The following is a list of people I have __active__ projects with. See the links page for a list of my past collaborations.
 
