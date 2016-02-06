@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Who We Are
-excerpt: "We study the dynamics of complex adaptive systems to improve the well-being of people around the  world"
+excerpt: "The group!"
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
   feature: DSC_3510.JPG
@@ -9,7 +9,7 @@ image:
 
 
 ## James Watson
-<img style="float: right" src="james_watson_lowres_head.jpg" width="25%" />
+<img style="float: right" src="james_watson_lowres_head.jpg" width="22%" />
 __Forskare__ / __Researcher__ <br>
 Stockholm Resilience Centre <br>
 Stockholm University, Sweden
@@ -25,7 +25,7 @@ _email:_ james.watson@su.se, jrwatson@coas.oregonstate.edu<br>
 
 
 ## Collaborators
-The following is a list of people I have __active__ projects with. See the links page for a list of my past collaborations.
+The following is a list of people we have __active__ projects with. See the links page for a list of our past collaborations.
 
 __Simon Levin__<br>
 Princeton University<br>
