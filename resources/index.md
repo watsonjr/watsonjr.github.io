@@ -15,14 +15,12 @@ While at the National Oceanography Centre, Southampton:<br> [Prof. Debora Iglesi
 My wife [Jodi Elliott](http://www.youtube.com/watch?v=EC71w4TFnag)
 
 ### Code
-[Julia](jttp://julialang.org/)
-[Matlab](http://www.mathworks.com)
-[R](http://www.r-project.org/)
-[Mathematica](http://www.wolfram.com/mathematica/)
-[Sage](http://www.sagemath.org/)
-[Python](http://www.numpy.org/)
+[Julia](jttp://julialang.org/),
+[Matlab](http://www.mathworks.com),
+[R](http://www.r-project.org/),
+[Mathematica](http://www.wolfram.com/mathematica/),
+[Sage](http://www.sagemath.org/),
+[Python](http://www.numpy.org/).
 
-### Past affiliations
-<img style="float: left" src="logos.jpg" width="60%" />
 
 
