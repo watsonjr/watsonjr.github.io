@@ -1,7 +1,7 @@
 ---
 layout: page
-title: What We Do
-excerpt: "What We Do"
+title: Publications
+excerpt: "Papers"
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
   feature: DSC_3510.JPG
@@ -9,29 +9,50 @@ image:
   #creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-We are involved in a number of research projects spanning marine ecology, resource  economics, sustainability science and complex adaptive systems science. Below you will find an       abbrieviated list of projects I am presently working on:
 
-### Fish, Fishing and Human behavior
-<img style="float: right" src="abm.png" hspace="5" width="35%" />
-I am part of a National Science Foundation funded project - a Dynamics of Coupled Natural-Human      Systems grant - to look at how human behavior is shaped by the environment in which we work. We      include colleagues at Princeton University - [Prof. Simon Levin](http://www.princeton.edu/~slevin/   ) - and a number of students), the University of Hawaii at Manoa - [Dr. John Lynham](http://www2.    hawaii.edu/~lynham/Welcome.html) - and NOAA - [Dr. Jameal Samhouri](http://jamealsamhouri.weebly.com/). We are developing novel mathematical theory and agent-based simulations, and analyzing a novel    dataset on the spatial dynamics of U.S. westcoast fishers.
+### Accepted
+Jonnson B & Watson JR. The Timescales of Global Surface-Ocean Connectivity. Nature Communications.
 
-### Global Marine Ecosystem Modeling
-I am working with Earth-System Modelers to develop global marine ecosystem models that resolve       things bigger than zooplankton (not obvious, but this is rare). Specifically, I work with [Dr.       Charles Stock](http://www.gfdl.noaa.gov/charles-stock-homepage) at the [Geophysical Fluids Dynamics  Lab](http://www.gfdl.noaa.gov/) on a simple size-based ecosytem model. The goal is to use this model to estimate how pelagic marine ecosystem might respond to various future climate change and fishing  scenarios.
+### In review
+Watson JR and Barbier M. Dinner for one, two or N: when should consumers cooperate? Plos Computational Biology.
 
-### Migration Ecology
-<img style="float: right" src="migrate.jpg" width="50%" />
-I have an interest in movement ecology, and I have done some work on baleen whale migration. I have  used output from an Earth System Model, together with information gained from the literature, to     estimate the calving and feeding habitats for baleen whales. I have then thrown network theory into  the mix to identify the shortest oceanographic paths connecting these habitats. This approach        identifies likely baleen whale migration routes, and can be used to develop high-seas conservation   priorities.
+Tilman A, Watson JR and Levin S. When Second Best is Best: Maintaining Cooperation in the Commons. Journal of Theoretical Biology.
 
-### Regional Marine Connectivity
-<img style="float: right" src="scb.png" width="45%" />
-I have worked for some time on marine population connectivity - most nearshore marine species spawn  tiny larvae, that drift primarily with ocean currents. Where they go, and end up growing into adults is of great importance to developing effective spatial marine management, like marine protected      areas. I have worked on this topic from the modeling side - using simulations of larval dispersal,   in realistic metapopulation models to indentify important regions. This work is continuing but in    the Coral Triangle. More to come.
+Pellegrini A, Watson JR, et al. Poaching and Climate variability: Interacting stochastic drivers of elephant population dynamics across Africa. Theoretical Ecology.
 
-### Global Marine Connectivity
-<img style="float: right" src="eigen.png" hspace="5" width="45%" />
-I also work on connectivity but at global scales. Here, we are asking questions of phytoplankton     connectivity time scales - how long does it take for phytoplankton genotypes to travel from say the  Indian Ocean to the Arctic? Similarly to the regional work, we simiulate the dispersal of            phytoplankton and use some nifty network theory to come up with interesting connectivity statistics. This work is being done with [Dr. Bror Jonsson](https://github.com/brorfred)
+### 2014-2016
+Building confidence in projections of the responses of living marine resources to climate change
+Cheung WWL., Frölicher TL, Asch RM, Jones MC, Pinsky ML, Reygondeau G, Rodgers KB, Rykaczewski RR, Sarmiento JL, Stock C, and Watson JR. ICES Journal of Marine Science doi:10.1093/icesjms/fsv250.
 
-### Coupled Earth-Human System modeling
-<img style="float: right" src="EHSM.png" hspace="5" width="55%" />
-This is very much a work in progress, but together with a number of people at the Stockholm          Resilience Centre, we are designing coupled Earth-Human System Models. These explicitly account for  the feedbacks between the earth and human systems, and the goal is to improve the projections of the impact of climate change on the planet. The schematic on the right isn't meant to be read, rather    just give an idea for the road-maps we've been making.
+Exploring the role of movement in determining the global distribution of marine biomass using a coupled hydrodynamic–Size-based ecosystem model. Watson JR, CA Stock, JL Sarmiento
+2015, Progress in Oceanography 138 (Part B), 521–532.
+
+Predicting Fish from Physics: Strengths, weaknesses and ways forward. Galbraith E, Watson JR and Peck M. ntegrated Marine Biogeochemistry and Ecosystem Research: News Letter. 2014, 27, 1-2.
+
+Thompson D, Castruccio F, Kleypas J, Watson JR, et al. Variability in reef connectivity in the Coral Triangle. Reef Encounter, 2014, 29(2), 46-51
+
+### 2012-2013
+Osterblöm H, Merrie A, Metian M, Boonstra W, Blenckner T, Watson JR, et al. Modeling social-ecological scenarios in marine systems. BioScience, 2013, 63(9):735-744.
+
+Watson JR, BE Kendall, DA Siegel, S Mitarai. Changing seascapes, stochastic connectivity and marine metapopulation dynamics. The American Naturalist, 2012, 180 (1) 990-112. Identified as important by the Faculty 1000: http://f1000.com/717948573.
+
+### 2010-2011
+Watson JR, Siegel D, Kendall B, Mitarai S, Rassweiller A, Gaines S. Identifying critical regions in small-world marine metapopulations. PNAS, 2011, 108(43) E907-E913.
+
+Alberto F, Raimond P, Reed D, Watson JR, et al. Isolation by oceanographic distance accounts for high proportion of genetic differentiation for Macrocystis pyrifera in the Santa Barbara Channel. Molecular Ecology, 2011, 20(12), 2543-2554.
+
+Watson JR, Hays C, Raimondi P, Siegel D, Mitarai S, Dong C, McWilliams J, Blanchette C. Currents connecting communities: a study of nearshore marine species in the Southern California Bight. Ecology, 2011, 92(6), 1193-1200.
+
+Watson JR, Mitarai S, Siegel D, Caselle J, Dong C, McWilliams J. Realized and potential larval connectivity in the Southern California Bight. Marine Ecology Progress Series, 2010, 401, 31-48.
+
+White C, Selkoe K, Watson JR, Siegel D, Zacherl D, Toonen R. Ocean currents help explain population genetic structure. Proc. R. Soc. B, 2010, 277, 1685-1694.
+
+Selkoe K, Watson JR, et al. Taking the chaos out of genetic patchiness: revealing ecological and oceanographic drivers of seascape genetics in Southern California kelp forests. Molecular Ecology, 2010, 19, 3708-3726.
+
+### 2008-2009
+Mitarai S, Siegel D, Watson JR, et al. Quantifying connectivity in the coastal ocean with application to the Southern California Bight. Journal of Geophysical Research, 2009, 114, C10026, doi:10.1029/2008JC005166.
+
+#### Preprint
+Watson JR, B Favetta, C Stock. On Modeling the Macroecology of Baleen Whale Migration, in preprint here: http://biorxiv.org/content/early/2014/09/28/009753.
 
 

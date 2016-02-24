@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Complex Adaptive Solutions
-excerpt: "We study the dynamics of complex adaptive systems to improve the well-being of people around the  world"
+title:  Solutions for Social-Ecological Systems
+excerpt: "We study the dynamics of complex and adaptive social-ecological systems to improve the well-being of people around the  world"
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
   feature: DSC_3510.JPG

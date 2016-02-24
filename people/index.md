@@ -8,9 +8,9 @@ image:
 ---
 
 
-## James Watson
+## PI -- James Watson
 <img style="float: right" src="james_watson_lowres_head.jpg" width="22%" />
-__Forskare__ / __Researcher__ <br>
+__Research Scientist__ <br>
 Stockholm Resilience Centre <br>
 Stockholm University, Sweden
 
@@ -21,7 +21,21 @@ Oregon State University, USA<br>
 _email:_ james.watson@su.se, jrwatson@coas.oregonstate.edu<br>
 
 
+## Post-docs
+We are currently looking for post-docs to join our group.
 
+## Students
+We are currently looking for PhD and Masters students to join our group.
+
+## Alumni
+__Laura Elsler__<br>
+Laura completed her Masters research project, from the University of Graz, with us in 2015. She is now a PhD student at the Stockholm Resilience Centre<br>
+
+__Roweena Patel__<br>
+Roweena completed her Masters research project, from the Stockholm University, with us in 2015. She is now a PhD student at the University of East Anglia in the UK<br>
+
+__Angela Zhou__<br>
+Angela worked with us as an undergraduate summer intern. She continues her studies at Princeton University<br>
 
 
 ## Collaborators
@@ -62,11 +76,6 @@ __Juan Bonachela__<br>
 Princeton University<br>
 Post-doc, [link to website](http://www.ugr.es/~jabonachela/)<br>
 We are working on realistic (yet simple) mathematical representations of predator feeding rates, and their resulting food-web dynamics
-
-__Anne-Marie Eikeset__<br>
-University of Oslo<br>
-Post-doc, [link to website](http://www.mn.uio.no/cees/english/people/researcher-postdoc/aeikeset/)<br>
-We are working together on a large Nordic project - [GreenMar](http://www.mn.uio.no/cees/english/research/news/cees/green-growth-based-on-marine-resources%3A-ecological.html)
 
 __Emma Fuller__<br>
 Princeton University<br>
