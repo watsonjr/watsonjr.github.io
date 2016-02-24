@@ -19,6 +19,8 @@ __Assistant Professor__<br>
 College of Earth, Ocean and Atmospheric Sciences<br>
 Oregon State University, USA<br>
 _email:_ james.watson@su.se, jrwatson@coas.oregonstate.edu<br>
+[Google Scholar](https://scholar.google.se/citations?user=LHQ0BPkAAAAJ&hl=en)
+[CV](http://watsonjr.github.io/people/Watson_CV.pdf)
 
 
 ## Post-docs
