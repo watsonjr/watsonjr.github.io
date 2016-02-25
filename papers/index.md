@@ -4,9 +4,8 @@ title: Publications
 excerpt: "Papers"
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
-  feature: DSC_3510.JPG
+  feature: IMG_5420.jpg
   credit: Jodi Elliott
-  #creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 

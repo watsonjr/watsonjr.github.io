@@ -4,9 +4,8 @@ title: What We Do
 excerpt: "What We Do"
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
-  feature: DSC_3510.JPG
+  feature: IMG_5251.jpg
   credit: Jodi Elliott
-  #creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 We are involved in a number of research projects spanning marine ecology, resource  economics, sustainability science and complex adaptive systems science. Below you will find an       abbrieviated list of projects we are presently working on:

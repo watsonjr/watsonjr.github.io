@@ -4,7 +4,7 @@ title: Who We Are
 excerpt: "The group!"
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
-  feature: DSC_3510.JPG
+  feature: IMG_5285.jpg
 ---
 
 
