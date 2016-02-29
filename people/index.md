@@ -22,6 +22,11 @@ _email:_ james.watson@su.se, jrwatson@coas.oregonstate.edu<br>
 [Google Scholar](https://scholar.google.se/citations?user=LHQ0BPkAAAAJ&hl=en)<br>
 [CV](http://watsonjr.github.io/people/Watson_CV.pdf)<br>
 
+BSc Biochemistry, University of Bristol, UK, 2001<br>
+MSc Oceanography, National Oceanography Centre, UK, 2004<br>
+PhD Marine Science, University of California Santa Barbara, USA, 2011<br>
+Post-doc, Dept. Ecology and Evolutionary Biology, Princeton University, USA, 2014<br>
+
 
 ## Post-docs
 We are currently looking for post-docs to join our group.
