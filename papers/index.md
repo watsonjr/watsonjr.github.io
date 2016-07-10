@@ -32,13 +32,11 @@ Jonnson B &  **Watson JR**#. The Timescales of Global Surface-Ocean Connectivity
 
 Kleypas JA, Thompson DM, Castruccio FS, Curchitser EN, Pinsky M &  **Watson JR**. Larval connectivity across temperature gradients and its potential effect on heat tolerance in coral populations. Global Change Biology. DOI: 10.1111/gcb.13347.
 
-Building confidence in projections of the responses of living marine resources to climate change
-Cheung WWL., Frölicher TL, Asch RM, Jones MC, Pinsky ML, Reygondeau G, Rodgers KB, Rykaczewski RR, Sarmiento JL, Stock C, and  **Watson JR**. ICES Journal of Marine Science doi:10.1093/icesjms/fsv250.
+Cheung WWL., Frölicher TL, Asch RM, Jones MC, Pinsky ML, Reygondeau G, Rodgers KB, Rykaczewski RR, Sarmiento JL, Stock C, and  **Watson JR**. Building confidence in projections of the responses of living marine resources to climate change. ICES Journal of Marine Science doi:10.1093/icesjms/fsv250.
 
-Exploring the role of movement in determining the global distribution of marine biomass using a coupled hydrodynamic–Size-based ecosystem model.  **Watson JR**, CA Stock, JL Sarmiento
-2015, Progress in Oceanography 138 (Part B), 521–532.
+ **Watson JR**, CA Stock, JL Sarmiento. Exploring the role of movement in determining the global distribution of marine biomass using a coupled hydrodynamic–Size-based ecosystem model. 2015, Progress in Oceanography 138 (Part B), 521–532.
 
-Predicting Fish from Physics: Strengths, weaknesses and ways forward. Galbraith E,  **Watson JR** and Peck M. ntegrated Marine Biogeochemistry and Ecosystem Research: News Letter. 2014, 27, 1-2.
+Galbraith E,  **Watson JR** and Peck M. Predicting Fish from Physics: Strengths, weaknesses and ways forward. Integrated Marine Biogeochemistry and Ecosystem Research: News Letter. 2014, 27, 1-2.
 
 Thompson D, Castruccio F, Kleypas J,  **Watson JR**, et al. Variability in reef connectivity in the Coral Triangle. Reef Encounter, 2014, 29(2), 46-51
 
