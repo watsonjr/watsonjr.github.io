@@ -8,18 +8,28 @@ image:
   credit: Jodi Elliott
 ---
 
-
-### Accepted
-Jonnson B & Watson JR. The Timescales of Global Surface-Ocean Connectivity. Nature Communications.
-
 ### In review
-Watson JR and Barbier M. Dinner for one, two or N: when should consumers cooperate? Plos Computational Biology.
+Watson JR, Fuller EF, Castruccio F, Samhouri J. Fishermen Follow Fine-scale Physical Ocean Features for Finance. Science.
+
+Fuller EF, Samhouri J, Stoll J, Watson JR & Levin SA. Human Connectivity in Social-Ecological Systems. Science.
+
+Barbier M & Watson JR. The Spatial Dynamics of Predators and the Benefits and Costs of Information Sharing. Plos Computational Biology.
 
 Tilman A, Watson JR and Levin S. When Second Best is Best: Maintaining Cooperation in the Commons. Journal of Theoretical Biology.
+
+Klinger D, Levin SA & Watson JR. The Growth of Finfish Globally in Open Ocean Aquaculture under Climate Change. Proc. Roy. Soc. B.
+
+Tilman A, Watson JR & Levin S. Maintaining Cooperation in social-ecological systems: Effective bottom-up management can require sub-optimal resource use. Theoretical Ecology.
+
+Klein ES, Barbier M & Watson JR. The Dual Impact of Ecology and Management on the Social Incentives in Marine Systems. Proc. Roy. Soc. B.
 
 Pellegrini A, Watson JR, et al. Poaching and Climate variability: Interacting stochastic drivers of elephant population dynamics across Africa. Theoretical Ecology.
 
 ### 2014-2016
+Jonnson B & Watson JR#. The Timescales of Global Surface-Ocean Connectivity. Nature Communications. 7, 1-6. #Dual co-lead author.
+
+Kleypas JA, Thompson DM, Castruccio FS, Curchitser EN, Pinsky M & Watson JR. Larval connectivity across temperature gradients and its potential effect on heat tolerance in coral populations. Global Change Biology. DOI: 10.1111/gcb.13347.
+
 Building confidence in projections of the responses of living marine resources to climate change
 Cheung WWL., Frölicher TL, Asch RM, Jones MC, Pinsky ML, Reygondeau G, Rodgers KB, Rykaczewski RR, Sarmiento JL, Stock C, and Watson JR. ICES Journal of Marine Science doi:10.1093/icesjms/fsv250.
 
