@@ -17,9 +17,7 @@ Jonnson B &  **Watson JR**#. Ocean Connectivity Attenuates Climate Change Impact
 
 Barbier M &  **Watson JR**. The Spatial Dynamics of Predators and the Benefits and Costs of Information Sharing. Plos Computational Biology.
 
-Tilman A,  **Watson JR** and Levin S. When Second Best is Best: Maintaining Cooperation in the Commons. Journal of Theoretical Biology.
-
-Klinger D, Levin SA &  **Watson JR**. The Growth of Finfish Globally in Open Ocean Aquaculture under Climate Change. Proc. Roy. Soc. B.
+Klinger D, Levin SA &  **Watson JR**. The Growth of Finfish Globally in Open Ocean Aquaculture under Climate Change. Global Change Biology.
 
 Tilman A,  **Watson JR** & Levin S. Maintaining Cooperation in social-ecological systems: Effective bottom-up management can require sub-optimal resource use. Theoretical Ecology.
 
