@@ -26,11 +26,11 @@ Klein ES, Barbier M &  **Watson JR**. The Dual Impact of Ecology and Management 
 Pellegrini A,  **Watson JR**, et al. Poaching and Climate variability: Interacting stochastic drivers of elephant population dynamics across Africa. Theoretical Ecology.
 
 ### 2014-2016
-Jonnson B &  **Watson JR**#. The Timescales of Global Surface-Ocean Connectivity. Nature Communications. 7, 1-6. #co-lead author.
+Jonnson B &  **Watson JR**#. The Timescales of Global Surface-Ocean Connectivity. Nature Communications. 2016. 7, 1-6. #co-lead author.
 
-Kleypas JA, Thompson DM, Castruccio FS, Curchitser EN, Pinsky M &  **Watson JR**. Larval connectivity across temperature gradients and its potential effect on heat tolerance in coral populations. Global Change Biology. DOI: 10.1111/gcb.13347.
+Kleypas JA, Thompson DM, Castruccio FS, Curchitser EN, Pinsky M &  **Watson JR**. Larval connectivity across temperature gradients and its potential effect on heat tolerance in coral populations. Global Change Biology. 2016. DOI: 10.1111/gcb.13347.
 
-Cheung WWL., Frölicher TL, Asch RM, Jones MC, Pinsky ML, Reygondeau G, Rodgers KB, Rykaczewski RR, Sarmiento JL, Stock C, and  **Watson JR**. Building confidence in projections of the responses of living marine resources to climate change. ICES Journal of Marine Science doi:10.1093/icesjms/fsv250.
+Cheung WWL., Frölicher TL, Asch RM, Jones MC, Pinsky ML, Reygondeau G, Rodgers KB, Rykaczewski RR, Sarmiento JL, Stock C, and  **Watson JR**. Building confidence in projections of the responses of living marine resources to climate change. ICES Journal of Marine Science. 2016. DOI:10.1093/icesjms/fsv250.
 
  **Watson JR**, CA Stock, JL Sarmiento. Exploring the role of movement in determining the global distribution of marine biomass using a coupled hydrodynamic–Size-based ecosystem model. 2015, Progress in Oceanography 138 (Part B), 521–532.
 
