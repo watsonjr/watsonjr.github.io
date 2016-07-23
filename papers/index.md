@@ -23,7 +23,7 @@ Tilman A,  **Watson JR** & Levin S. Maintaining Cooperation in social-ecological
 
 Klein ES, Barbier M &  **Watson JR**. The Dual Impact of Ecology and Management on the Social Incentives in Marine Systems. Proc. Roy. Soc. B.
 
-Burgess MG, Drexler M, Axtell RL, Bailey RM, Watson JR, et al. The role of agent-based modeling in systems-based fishery management. Fish and Fisheries.
+Burgess MG, Drexler M, Axtell RL, Bailey RM, **Watson JR**, et al. The role of agent-based modeling in systems-based fishery management. Fish and Fisheries.
 
 Pellegrini A,  **Watson JR**, et al. Poaching and Climate variability: Interacting stochastic drivers of elephant population dynamics across Africa. Theoretical Ecology.
 
