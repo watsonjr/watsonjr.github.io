@@ -9,7 +9,7 @@ image:
 ---
 
 ### In review
- **Watson JR**, Fuller EF, Castruccio F, Samhouri J. Fishermen Follow Fine-scale Physical Ocean Features for Finance. <font color="black">Science</font>.
+ **Watson JR**, Fuller EF, Castruccio F, Samhouri J. Fishermen Follow Fine-scale Physical Ocean Features for Finance. Science.
 
 Fuller EF, Samhouri J, Stoll J,  **Watson JR** & Levin SA. Human Connectivity in Social-Ecological Systems. Science.
 
