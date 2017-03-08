@@ -9,19 +9,17 @@ image:
 ---
 
 ### In review
- **Watson JR**, Fuller EF, Castruccio F, Samhouri J. Fishermen Follow Fine-scale Physical Ocean Features for Finance. Science.
+Villarino E., **Watson JR** et al. Large-scale ocean connectivity and planktonic body size. Nature Communications.
 
-Fuller EF, Samhouri J, Stoll J,  **Watson JR** & Levin SA. Human Connectivity in Social-Ecological Systems. Science.
+ **Watson JR**, Fuller EF, Castruccio F, Samhouri J. Fishermen Follow Fine-scale Physical Ocean Features for Finance. Nature Scientific Reports.
 
-Jonnson B &  **Watson JR**#. Ocean Connectivity Attenuates Climate Change Impacts on Planktonic Communities. PNAS. #Co-lead author.
+Fuller EF, Samhouri J, Stoll J, Levin SA & **Watson JR** & Levin SA. Characterizing Fisheries Connectivity in Marine Social-Ecological Systems. ICES Journal of Marine Science.
 
-Barbier M &  **Watson JR**. The Spatial Dynamics of Predators and the Benefits and Costs of Information Sharing. Plos Computational Biology.
+#Jonnson B &  **Watson JR**#. Ocean Connectivity Attenuates Climate Change Impacts on Planktonic Communities. PNAS. #Co-lead author.
 
 Klinger D, Levin SA &  **Watson JR**. The Growth of Finfish Globally in Open Ocean Aquaculture under Climate Change. Global Change Biology.
 
-Tilman A,  **Watson JR** & Levin S. Maintaining Cooperation in social-ecological systems: Effective bottom-up management can require sub-optimal resource use. Theoretical Ecology.
-
-Klein ES, Barbier M &  **Watson JR**. The Dual Impact of Ecology and Management on the Social Incentives in Marine Systems. Proc. Roy. Soc. B.
+Klein ES, Barbier M &  **Watson JR**. The Dual Impact of Ecology and Management on the Social Incentives in Marine Systems. Proc. Roy. Soc. Open Science.
 
 Burgess MG, Drexler M, Axtell RL, Bailey RM, **Watson JR**, et al. The role of agent-based modeling in systems-based fishery management. Fish and Fisheries.
 
@@ -29,6 +27,10 @@ Pellegrini A,  **Watson JR**, et al. Poaching and Climate variability: Interacti
 
 ### 2014-2016
 Jonnson B &  **Watson JR**#. The Timescales of Global Surface-Ocean Connectivity. Nature Communications. 2016. 7, 1-6. #co-lead author.
+
+Tilman A,  **Watson JR** & Levin S. Maintaining Cooperation in social-ecological systems: Effective bottom-up management can require sub-optimal resource use. Theoretical Ecology, doi:10.1007/s12080-016-0318-8.
+
+Barbier M &  **Watson JR**. The Spatial Dynamics of Predators and the Benefits and Costs of Information Sharing. Plos Computational Biology, 12 (10), e1005147.
 
 Kleypas JA, Thompson DM, Castruccio FS, Curchitser EN, Pinsky M &  **Watson JR**. Larval connectivity across temperature gradients and its potential effect on heat tolerance in coral populations. Global Change Biology. 2016. DOI: 10.1111/gcb.13347.
 
