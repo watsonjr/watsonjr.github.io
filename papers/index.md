@@ -15,8 +15,6 @@ Villarino E., **Watson JR** et al. Large-scale ocean connectivity and planktonic
 
 Fuller EF, Samhouri J, Stoll J, Levin SA & **Watson JR** & Levin SA. Characterizing Fisheries Connectivity in Marine Social-Ecological Systems. ICES Journal of Marine Science.
 
-#Jonnson B &  **Watson JR**#. Ocean Connectivity Attenuates Climate Change Impacts on Planktonic Communities. PNAS. #Co-lead author.
-
 Klinger D, Levin SA &  **Watson JR**. The Growth of Finfish Globally in Open Ocean Aquaculture under Climate Change. Global Change Biology.
 
 Klein ES, Barbier M &  **Watson JR**. The Dual Impact of Ecology and Management on the Social Incentives in Marine Systems. Proc. Roy. Soc. Open Science.
