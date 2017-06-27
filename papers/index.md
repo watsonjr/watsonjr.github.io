@@ -11,17 +11,26 @@ image:
 ### In review
 Villarino E., **Watson JR** et al. Large-scale ocean connectivity and planktonic body size. Nature Communications.
 
- **Watson JR**, Fuller EF, Castruccio F, Samhouri J. Fishermen Follow Fine-scale Physical Ocean Features for Finance. Nature Scientific Reports.
+ **Watson JR**, Fuller EF, Castruccio F, Samhouri J. Fishermen Follow Fine-scale Physical Ocean Features for Finance. PLoS Biology.
 
-Fuller EF, Samhouri J, Stoll J, Levin SA & **Watson JR** & Levin SA. Characterizing Fisheries Connectivity in Marine Social-Ecological Systems. ICES Journal of Marine Science.
+McManus LC, Watson JR, Vasconcelos VV, Levin SA. Nonlinear Dynamics of Coral-Algae Systems and Their Recruitment Dependent Resilience. The American Naturalist.
 
-Klinger D, Levin SA &  **Watson JR**. The Growth of Finfish Globally in Open Ocean Aquaculture under Climate Change. Global Change Biology.
-
-Klein ES, Barbier M &  **Watson JR**. The Dual Impact of Ecology and Management on the Social Incentives in Marine Systems. Proc. Roy. Soc. Open Science.
+Klinger D, Levin SA &  **Watson JR**. The Growth of Finfish Globally in Open Ocean Aquaculture under Climate Change. Proc. Roy. Soc. B.
 
 Burgess MG, Drexler M, Axtell RL, Bailey RM, **Watson JR**, et al. The role of agent-based modeling in systems-based fishery management. Fish and Fisheries.
 
 Pellegrini A,  **Watson JR**, et al. Poaching and Climate variability: Interacting stochastic drivers of elephant population dynamics across Africa. Theoretical Ecology.
+
+Siegel DA, **Watson JR**, Simons RD, Mitarai S & McWilliams JC. Characterizing Particle Transit Time Metrics in a Coastal Ocean Network. Journal of Geophysical Research.
+
+
+### 2017
+Pen˜a TS, Watson JR, Gonza´lez-Guzma´n LI, Keitt TH. Step-wise drops in modularity and the fragmentation of exploited marine metapopulations. Landscape Ecology. DOI 10.1007/s10980-017-0532-9
+
+Fuller EF, Samhouri J, Stoll J, Levin SA & **Watson JR**. Characterizing Fisheries Connectivity in Marine Social-Ecological Systems. ICES Journal of Marine Science. in press.
+
+Klein ES, Barbier M &  **Watson JR**. The Dual Impact of Ecology and Management on the Social Incentives in Marine Systems. Proc. Roy. Soc. Open Science. in press.
+
 
 ### 2014-2016
 Jonnson B &  **Watson JR**#. The Timescales of Global Surface-Ocean Connectivity. Nature Communications. 2016. 7, 1-6. #co-lead author.

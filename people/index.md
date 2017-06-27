@@ -10,16 +10,10 @@ image:
 
 ## PI -- James Watson
 <img style="float: right" src="james_watson_lowres_head.jpg" width="22%" />
-__Research Scientist__ <br>
-Stockholm Resilience Centre <br>
-Stockholm University, Sweden <br>
-and the Global Economic Dynamics and the Biosphere Program <br>
-Royal Swedish Academy of Sciences <br>
-
 __Assistant Professor__<br>
 College of Earth, Ocean and Atmospheric Sciences<br>
 Oregon State University, USA<br>
-_email:_ james.watson@su.se, jrwatson@coas.oregonstate.edu<br>
+_email:_ jrwatson@coas.oregonstate.edu<br>
 [Google Scholar](https://scholar.google.se/citations?user=LHQ0BPkAAAAJ&hl=en)<br>
 [CV](http://watsonjr.github.io/people/Watson_CV.pdf)<br>
 
@@ -27,7 +21,7 @@ BSc Biochemistry, University of Bristol, UK, 2001<br>
 MSc Oceanography, National Oceanography Centre, UK, 2004<br>
 PhD Marine Science, University of California Santa Barbara, USA, 2011<br>
 Post-doc, Dept. Ecology and Evolutionary Biology, Princeton University, USA, 2014<br>
-
+Research Scientist, Stockholm Resilience Centre, Sweden, 2014-2017<br>
 
 ## Post-docs
 We are currently looking for post-docs to join our group.
