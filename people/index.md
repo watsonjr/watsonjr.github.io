@@ -17,10 +17,10 @@ _email:_ jrwatson@coas.oregonstate.edu<br>
 [Google Scholar](https://scholar.google.se/citations?user=LHQ0BPkAAAAJ&hl=en)<br>
 [CV](http://watsonjr.github.io/people/Watson_CV.pdf)<br>
 
-BSc Biochemistry, University of Bristol, UK, 2001<br>
-MSc Oceanography, National Oceanography Centre, UK, 2004<br>
-PhD Marine Science, University of California Santa Barbara, USA, 2011<br>
-Post-doc, Dept. Ecology and Evolutionary Biology, Princeton University, USA, 2014<br>
+BSc Biochemistry, University of Bristol, UK, 1998-2001<br>
+MSc Oceanography, National Oceanography Centre, UK, 2003-2005<br>
+PhD Marine Science, University of California Santa Barbara, USA, 2006-2011<br>
+Post-doc, Dept. Ecology and Evolutionary Biology, Princeton University, USA, 2011-2014<br>
 Research Scientist, Stockholm Resilience Centre, Sweden, 2014-2017<br>
 
 ## Post-docs
