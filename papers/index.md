@@ -25,7 +25,7 @@ Siegel DA, **Watson JR**, Simons RD, Mitarai S & McWilliams JC. Characterizing P
 
 
 ### 2017
-Pen˜a TS, Watson JR, Gonza´lez-Guzma´n LI, Keitt TH. Step-wise drops in modularity and the fragmentation of exploited marine metapopulations. Landscape Ecology. DOI 10.1007/s10980-017-0532-9
+Pena TS, Watson JR, Gonzalez-Guzman LI, Keitt TH. Step-wise drops in modularity and the fragmentation of exploited marine metapopulations. Landscape Ecology. DOI 10.1007/s10980-017-0532-9
 
 Fuller EF, Samhouri J, Stoll J, Levin SA & **Watson JR**. Characterizing Fisheries Connectivity in Marine Social-Ecological Systems. ICES Journal of Marine Science. in press.
 
@@ -37,7 +37,7 @@ Jonnson B &  **Watson JR**#. The Timescales of Global Surface-Ocean Connectivity
 
 Tilman A,  **Watson JR** & Levin S. Maintaining Cooperation in social-ecological systems: Effective bottom-up management can require sub-optimal resource use. Theoretical Ecology, doi:10.1007/s12080-016-0318-8.
 
-Barbier M &  **Watson JR**. The Spatial Dynamics of Predators and the Benefits and Costs of Information Sharing. Plos Computational Biology, 12 (10), e1005147.
+Barbier M &  **Watson JR**#. The Spatial Dynamics of Predators and the Benefits and Costs of Information Sharing. Plos Computational Biology, 12 (10), e1005147. #co-lead author
 
 Kleypas JA, Thompson DM, Castruccio FS, Curchitser EN, Pinsky M &  **Watson JR**. Larval connectivity across temperature gradients and its potential effect on heat tolerance in coral populations. Global Change Biology. 2016. DOI: 10.1111/gcb.13347.
 
