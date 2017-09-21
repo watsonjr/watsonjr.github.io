@@ -24,10 +24,11 @@ Post-doc, Dept. Ecology and Evolutionary Biology, Princeton University, USA, 201
 Research Scientist, Stockholm Resilience Centre, Sweden, 2014-2017<br>
 
 ## Post-docs
-We are currently looking for post-docs to join our group.
+2017 -- **Zach Gelbaum**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.
+2017 -- **Mathew Titus**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.
 
 ## Students
-2017 -- Steven Johnson, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.
+2017 -- **Steven Johnson**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.
 
 ## Alumni
 __Laura Elsler__<br>
