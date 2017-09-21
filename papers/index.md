@@ -11,25 +11,31 @@ image:
 ### In review
 Villarino E., **Watson JR** et al. Large-scale ocean connectivity and planktonic body size. Nature Communications.
 
- **Watson JR**, Fuller EF, Castruccio F, Samhouri J. Fishermen Follow Fine-scale Physical Ocean Features for Finance. PLoS Biology.
+ **Watson JR**, Fuller EF, Castruccio F, Samhouri J. Fishermen Follow Fine-scale Physical Ocean Features for Finance. Frontiers in Marine Science.
 
-McManus LC, Watson JR, Vasconcelos VV, Levin SA. Nonlinear Dynamics of Coral-Algae Systems and Their Recruitment Dependent Resilience. The American Naturalist.
-
-Klinger D, Levin SA &  **Watson JR**. The Growth of Finfish Globally in Open Ocean Aquaculture under Climate Change. Proc. Roy. Soc. B.
-
-Burgess MG, Drexler M, Axtell RL, Bailey RM, **Watson JR**, et al. The role of agent-based modeling in systems-based fishery management. Fish and Fisheries.
-
-Pellegrini A,  **Watson JR**, et al. Poaching and Climate variability: Interacting stochastic drivers of elephant population dynamics across Africa. Theoretical Ecology.
+McManus LC, **Watson JR**, Vasconcelos VV, Levin SA. Nonlinear Dynamics of Coral-Algae Systems and Their Recruitment Dependent Resilience. Theoreticl Ecology.
 
 Siegel DA, **Watson JR**, Simons RD, Mitarai S & McWilliams JC. Characterizing Particle Transit Time Metrics in a Coastal Ocean Network. Journal of Geophysical Research.
 
+Thompson D, Kleypas J, Castruccio F, Curchitser E, Pinsky ML, Jonsson B, **Watson JR**. Variability in physical barriers to coral larval dispersal: do currents shape biodiversity? Progress in Oceanography.
+
+Kininmonth S, Blenckner T, Niiranen S, **Watson JR**, Orio A, Casini M, Neuenfeldt S, Bartolino V, Hansson M. Is biotope information the missing link in coastal fisheries management? Fish and Fisheries.
+
 
 ### 2017
-Pena TS, Watson JR, Gonzalez-Guzman LI, Keitt TH. Step-wise drops in modularity and the fragmentation of exploited marine metapopulations. Landscape Ecology. DOI 10.1007/s10980-017-0532-9
+Klinger D, Levin SA &  **Watson JR**. The Growth of Finfish Globally in Open Ocean Aquaculture under Climate Change. Proc. Roy. Soc. B. In press.
 
-Fuller EF, Samhouri J, Stoll J, Levin SA & **Watson JR**. Characterizing Fisheries Connectivity in Marine Social-Ecological Systems. ICES Journal of Marine Science. in press.
+Klinger D, Eikeset AM, Davidsdottir B, Winter A-M, **Watson JR**. The mechanics of blue growth: Management of oceanic natural resource use with multiple, interacting sectors. Marine Policy. In press.
 
-Klein ES, Barbier M &  **Watson JR**. The Dual Impact of Ecology and Management on the Social Incentives in Marine Systems. Proc. Roy. Soc. Open Science. in press.
+Tittensor DP, et al. (including **Watson JR**). A protocol for the intercomparison of marine fishery and ecosystem models: FishMIP v1.0}. Geoscientific Model Development. In press.
+
+Hidalgo M, Kaplan DM, Kerr LA, **Watson JR**, Paris CB, Browman HI. Advancing the link between ocean connectivity, ecological function and management challenges. ICES Journal of Marine Science 74 (6), 1702-1707.
+
+Pena TS, **Watson JR**, Gonzalez-Guzman LI, Keitt TH. Step-wise drops in modularity and the fragmentation of exploited marine metapopulations. Landscape Ecology. DOI 10.1007/s10980-017-0532-9
+
+Fuller EF, Samhouri J, Stoll J, Levin SA & **Watson JR**. Characterizing Fisheries Connectivity in Marine Social-Ecological Systems. ICES Journal of Marine Science. DOI:10.1093/icesjms/fsx128..
+
+Klein ES, Barbier M &  **Watson JR**. The Dual Impact of Ecology and Management on the Social Incentives in Marine Systems. Proc. Roy. Soc. Open Science, 4: 170740. http://dx.doi.org/10.1098/rsos.170740.
 
 
 ### 2014-2016
