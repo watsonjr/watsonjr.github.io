@@ -21,7 +21,7 @@ __CEO and Founder__<br>
 BigFish Inc.<br>
 Providing fishermen and fish-farmers risk management applications built on blockchain technology.
 
-__Education__
+__Education__<br>
 BSc Biochemistry, University of Bristol, UK, 1998-2001<br>
 MSc Oceanography, National Oceanography Centre, UK, 2003-2005<br>
 PhD Marine Science, University of California Santa Barbara, USA, 2006-2011<br>
