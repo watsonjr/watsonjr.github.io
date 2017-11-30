@@ -17,7 +17,7 @@ _email:_ jrwatson@coas.oregonstate.edu<br>
 [Google Scholar](https://scholar.google.se/citations?user=LHQ0BPkAAAAJ&hl=en)<br>
 [CV](http://watsonjr.github.io/people/Watson_CV.pdf)<br>
 
-__CEO and Founder__
+__CEO and Founder__<br>
 BigFish Inc.<br>
 Providing fishermen and fish-farmers risk management applications built on blockchain technology.
 
