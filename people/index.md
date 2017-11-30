@@ -18,7 +18,7 @@ _email:_ jrwatson@coas.oregonstate.edu<br>
 [CV](http://watsonjr.github.io/people/Watson_CV.pdf)<br>
 
 __CEO and Founder__
-BigFish Inc.
+BigFish Inc.<br>
 Providing fishermen and fish-farmers risk management applications built on blockchain technology.
 
 __Education__
@@ -37,11 +37,17 @@ Research Scientist, Stockholm Resilience Centre, Sweden, 2014-2017<br>
 2017 -- **Ciera Villegas**, Environmental Sciences Graduate Program, Oregon State University.
 
 ## Alumni
+__Emily Klein__<br>
+Emily was a post-doc at Princeton University who took part in the SERENE exchange program with the Stockholm Resilience Centre, 2013-2015. Emily worked on human behavioral challenges in fisheries.<br>
+
+__Matthieu Barbier__<br>
+Matthieu was a post-doc at Princeton University who took part in the SERENE exchange program with the Stockholm Resilience Centre, 2013-2015. Matthieu worked on developing Agent-based Models of fisheries.<br>
+
 __Andrew Tilman__<br>
-Andrew was a PhD student on the SERENE exchange program between the Stockholm Resilienc Centre and Princeton University, 2014-2017. Andrew worked on human behavioral challenges in fisheries.<br>
+Andrew was a PhD student at Princeton University who took part in the SERENE exchange program with the Stockholm Resilience Centre, 2013-2017. Andrew developed economic incentives for sustainable fisheries.<br> 
 
 __Lisa McManus__<br>
-Andrew was a PhD student on the SERENE exchange program between the Stockholm Resilienc Centre and Princeton University, 2014-2017. Lisa worked on predicting the response of coral systems to climate change.<br>
+Lisa was a PhD student at Princeton University who took part in the SERENE exchange program with the Stockholm Resilience Centre, 2013-2017. Lisa worked on predicting the response of coral systems to climate change.<br>
 
 __Laura Elsler__<br>
 Laura completed her Masters research project, from the University of Graz, with us in 2015.<br>
