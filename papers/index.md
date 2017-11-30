@@ -19,7 +19,7 @@ Kininmonth S, Blenckner T, Niiranen S, **Watson JR**, Orio A, Casini M, Neuenfel
 
  **Watson JR**, Fuller EF, Castruccio F, Samhouri J. Fishermen Follow Fine-scale Physical Ocean Features for Finance. Frontiers in Marine Science.
 
-Tilman A, Levin SA, **Watson JR**. Risk aversion and revenue sharing agreements can lead to cooperative self-regulation. Proceedings of the Royal Society Interface
+Tilman A, Levin SA, **Watson JR**. Risk aversion and revenue sharing agreements can lead to cooperative self-regulation. Proceedings of the Royal Society Interface.
 
 Spijkers J, Morrison T, Blasiak R, Cumming G, Osborne M, **Watson JR**, Österblom H. Marine Fisheries and Future Ocean Conflict. Fish and Fisheries.
 

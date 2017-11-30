@@ -17,6 +17,11 @@ _email:_ jrwatson@coas.oregonstate.edu<br>
 [Google Scholar](https://scholar.google.se/citations?user=LHQ0BPkAAAAJ&hl=en)<br>
 [CV](http://watsonjr.github.io/people/Watson_CV.pdf)<br>
 
+__CEO and Founder__
+BigFish Inc.
+Providing fishermen and fish-farmers risk management applications built on blockchain technology.
+
+__Education__
 BSc Biochemistry, University of Bristol, UK, 1998-2001<br>
 MSc Oceanography, National Oceanography Centre, UK, 2003-2005<br>
 PhD Marine Science, University of California Santa Barbara, USA, 2006-2011<br>
@@ -29,8 +34,15 @@ Research Scientist, Stockholm Resilience Centre, Sweden, 2014-2017<br>
 
 ## Students
 2017 -- **Steven Johnson**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.
+2017 -- **Ciera Villegas**, Environmental Sciences Graduate Program, Oregon State University.
 
 ## Alumni
+__Andrew Tilman__<br>
+Andrew was part of the SERENE exchange program between the Stockholm Resilienc Centre and Princeton University, 2014-2017. Andrew worked on human behavioral challenges in fisheries.<br>
+
+__Lisa McManus__<br>
+Andrew was part of the SERENE exchange program between the Stockholm Resilienc Centre and Princeton University, 2014-2017. Lisa worked on predicting the response of coral systems to climate change.<br>
+
 __Laura Elsler__<br>
 Laura completed her Masters research project, from the University of Graz, with us in 2015.<br>
 
