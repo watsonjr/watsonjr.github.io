@@ -32,16 +32,16 @@ Research Scientist, Stockholm Resilience Centre, Sweden, 2014-2017<br>
 2017 -- **Zach Gelbaum**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 2017 -- **Mathew Titus**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 
-## Students
-2017 -- **Steven Johnson**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.
+## PhD Students
+2017 -- **Steven Johnson**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 2017 -- **Ciera Villegas**, Environmental Sciences Graduate Program, Oregon State University.
 
 ## Alumni
 __Andrew Tilman__<br>
-Andrew was part of the SERENE exchange program between the Stockholm Resilienc Centre and Princeton University, 2014-2017. Andrew worked on human behavioral challenges in fisheries.<br>
+Andrew was a PhD student on the SERENE exchange program between the Stockholm Resilienc Centre and Princeton University, 2014-2017. Andrew worked on human behavioral challenges in fisheries.<br>
 
 __Lisa McManus__<br>
-Andrew was part of the SERENE exchange program between the Stockholm Resilienc Centre and Princeton University, 2014-2017. Lisa worked on predicting the response of coral systems to climate change.<br>
+Andrew was a PhD student on the SERENE exchange program between the Stockholm Resilienc Centre and Princeton University, 2014-2017. Lisa worked on predicting the response of coral systems to climate change.<br>
 
 __Laura Elsler__<br>
 Laura completed her Masters research project, from the University of Graz, with us in 2015.<br>
