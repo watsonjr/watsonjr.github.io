@@ -17,17 +17,20 @@ Thompson D, Kleypas J, Castruccio F, Curchitser E, Pinsky ML, Jonsson B, **Watso
 
 Kininmonth S, Blenckner T, Niiranen S, **Watson JR**, Orio A, Casini M, Neuenfeldt S, Bartolino V, Hansson M. Is biotope information the missing link in coastal fisheries management? Fish and Fisheries.
 
- **Watson JR**, Fuller EF, Castruccio F, Samhouri J. Fishermen Follow Fine-scale Physical Ocean Features for Finance. Frontiers in Marine Science.
-
-Tilman A, Levin SA, **Watson JR**. Risk aversion and revenue sharing agreements can lead to cooperative self-regulation. Proceedings of the Royal Society Interface.
+Tilman A, Levin SA, **Watson JR**. Risk aversion and revenue sharing agreements can lead to cooperative self-regulation. Journal of Theoretical Biology.
 
 Spijkers J, Morrison T, Blasiak R, Cumming G, Osborne M, **Watson JR**, Österblom H. Marine Fisheries and Future Ocean Conflict. Fish and Fisheries.
 
-### 2017
-Villarino E., **Watson JR** et al. Large-scale ocean connectivity and planktonic body size. Nature Communications. In press.
+
+### 2018
+Villarino E., **Watson JR** et al. Large-scale ocean connectivity and planktonic body size. Nature Communications. 2018, 9 (142), doi:10.1038/s41467-017-02535-8
+
+ **Watson JR**, Fuller EF, Castruccio F, Samhouri J. Fishermen Follow Fine-scale Physical Ocean Features for Finance. Frontiers in Marine Science. In press.
 
 Tittensor DP, et al. (including **Watson JR**). A protocol for the intercomparison of marine fishery and ecosystem models: FishMIP v1.0}. Geoscientific Model Development. In press.
 
+
+### 2017
 Klinger D, Levin SA &  **Watson JR**. The Growth of Finfish Globally in Open Ocean Aquaculture under Climate Change. Proc. Roy. Soc. B. 284, pii: 20170834. doi: 10.1098/rspb.2017.0834.
 
 Klinger D, Eikeset AM, Davidsdottir B, Winter A-M, **Watson JR**. The mechanics of blue growth: Management of oceanic natural resource use with multiple, interacting sectors. Marine Policy. https://doi.org/10.1016/j.marpol.2017.09.025.
