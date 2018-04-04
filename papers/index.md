@@ -23,6 +23,8 @@ Spijkers J, Morrison T, Blasiak R, Cumming G, Osborne M, **Watson JR**, Österb
 
 
 ### 2018
+Monk CT#, Barbier M#; Romanczuk P#, **Watson JR**#; Alos J, Nakayama S, Rubenstein DI, Levin SA, Arlinghaus R. How ecology shapes exploitation: a framework to predict the behavioural response of human and animal foragers along exploration– exploitation trade-offs. Ecology Letters, doi: 10.1111/ele.12949. #co-lead author
+
 Villarino E., **Watson JR** et al. Large-scale ocean connectivity and planktonic body size. Nature Communications. 2018, 9 (142), doi:10.1038/s41467-017-02535-8
 
  **Watson JR**, Fuller EF, Castruccio F, Samhouri J. Fishermen Follow Fine-scale Physical Ocean Features for Finance. Frontiers in Marine Science. In press.
