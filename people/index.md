@@ -32,7 +32,8 @@ Research Scientist, Stockholm Resilience Centre, Sweden, 2014-2017<br>
 2017 -- **Zach Gelbaum**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 2017 -- **Mathew Titus**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 
-## PhD Students
+## Students
+2018 -- **Keiko Nomura**, Marine Resource Management Program, Oregon State University. <br>
 2017 -- **Steven Johnson**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 2017 -- **Ciera Villegas**, Environmental Sciences Graduate Program, Oregon State University.
 
