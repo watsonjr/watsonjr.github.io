@@ -7,7 +7,7 @@ image:
   feature: IMG_5420.jpg
   credit: Jodi Elliott
 ---
-[broadest field for categorization]
+[broadest field for categorization] <br/>
 +co-lead author
 
 ### In review
