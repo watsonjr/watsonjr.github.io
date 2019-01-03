@@ -18,8 +18,8 @@ _email:_ jrwatson@coas.oregonstate.edu<br>
 [CV](http://watsonjr.github.io/people/Watson_CV.pdf)<br>
 
 __CEO and Founder__<br>
-BigFish Inc.<br>
-Providing fishermen and fish-farmers risk management applications built on blockchain technology.
+The Prediction Lab LLC.<br>
+A think and do tank that solves hard problems using tools from mathematics and computer science.
 
 __Education__<br>
 BSc Biochemistry, University of Bristol, UK, 1998-2001<br>
