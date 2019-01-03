@@ -11,10 +11,10 @@ image:
 We are involved in a number of research projects spanning complex systems science, marine ecology, resource economics, and sustainability science. Below you will find an abbrieviated list of projects we are presently working on:
 
 ### Predicting Illegal Activities at Sea
-Funded by **NASA** we are developing new data analytic methods for predicting illegal activities (i.e. really bad stuff like narcotics and slave trafficking) based on anomalous cross-scale spatial behaviors. The project uses NASA nightlight and AIS data in conjunction with new mathematical methods based on collective behavior in complex systems. 
+Funded by **NASA** we are developing new data analytic methods for predicting illegal activities (i.e. really bad stuff like narcotics and slave trafficking) based on anomalous cross-scale spatial behaviors of maritime vessels. The project uses NASA nightlight and AIS data in conjunction with new mathematical methods based on collective behavior in complex systems. 
 
 ### Cross-scale Properties of Complex Adaptive Systems
-Funded by **DARPA** we are developing new multi-scale data analytic methods, based on manifold learning, for characterizing and predicting large changes in various complex adaptive systems, randing from ecosystems, financial markets, housing markets, power-grids and systems exhibiting collective behavior (e.g. fish schools). 
+Funded by **DARPA** we are developing new multi-scale data analytic methods, based on manifold learning, for characterizing and predicting large changes in various complex adaptive systems, ranging from ecosystems, financial markets, housing markets, power-grids and systems exhibiting collective behavior (e.g. fish schools). 
 
 ### Complex and Dynamic Socio-environmental Systems
 <!---
