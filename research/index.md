@@ -8,20 +8,25 @@ image:
   credit: Jodi Elliott
 ---
 
-We are involved in a number of research projects spanning marine ecology, resource  economics, sustainability science and complex adaptive systems science. Below you will find an abbrieviated list of projects we are presently working on:
+We are involved in a number of research projects spanning complex systems science, marine ecology, resource economics, and sustainability science. Below you will find an abbrieviated list of projects we are presently working on:
 
-### Cooperative Behavior in Social-ecological Systems
-<img style="float: right" src="abm.png" hspace="5" width="35%" />
-As part of a National Science Foundation funded project - a Dynamics of Coupled Natural-Human      Systems grant - we are looking at how cooperative behavior in fishermen is shaped by the environment in which they work. We work with collaborators at Princeton University - [Prof. Simon Levin](http://www.princeton.edu/~slevin/) - and a number of students), the University of Hawaii at Manoa - [Dr. John Lynham](http://www2.hawaii.edu/~lynham/Welcome.html) - and NOAA - [Dr. Jameal Samhouri](http://jamealsamhouri.weebly.com/). We are developing novel mathematical theory and agent-based simulations, and analyzing a novel dataset on the spatial dynamics of U.S. westcoast fishers. In particular, we are advancing the idea of **Fisheries Connectivity**, that is when fishermen work in multiple fisheries (one way in which they deal with income risk), they act to connect these fisheries. Figuring out how to quantify fisheries connectivity, seeing what it looks like for various places and at various scales, and designing management policies that account for it, we see as important steps towards advancing Ecosystem-based fisheries Management.
+### Predicting Illegal Activities at Sea using Complex Systems Thinking
+Funded by **NASA** we are developing new data analytic methods for predicting illegal activities (i.e. really bad stuff like narcotics and slave trafficking) based on anomalous cross-scale spatial behaviors. The project uses NASA nightlight and AIS data in conjunction with new mathematical methods based on collective behavior in complex systems. 
 
 ### Cross-scale Properties of Complex Adaptive Systems
-In many important problems, ranging from ecology to geopolitics to finance, interactions and behaviors are known at the microscopic/individual level, but the closures required to translate them to a high-level macroscopic description are unknown. Severe limitations arise in trying either to find these closures directly, or to solve these problems at the scale at which the questions of interest are asked using microscopic simulations only (i.e. using agent-based models). These limitations constitute a major stumbling block in current complex social-like system modeling. Funded by **DARPA**, we are developing new modeling tools, for example manifold learning data-mining tools and Equation Free Modeling, to overcome this challenge. We are using these tools to compare Early Warning Signals of critical transitions in financial markets, social-ecological systems, and human-migration systems. 
+Funded by **DARPA** we are developing new multi-scale data analytic methods, based on manifold learning, for characterizing and predicting large changes in various complex adaptive systems, randing from ecosystems, financial markets, housing markets, power-grids and systems exhibiting collective behavior (e.g. fish schools). 
+
+### Managing the Complexity and Dynamics of Socio-environmental Systems
+<img style="float: right" src="abm.png" hspace="5" width="35%" />
+We are developing novel mathematical models and agent-based simulations, and analyzing novel socio-environmental datasets for socio-environmental systems. Some of the topics we are working on include changing spatial behaviors of fishermen, human community vulnerability and adaptive capacity in the face of natural hazards, the innovation and diffusion of conservation norms, and predicting human mobility as people respond to climate change. 
 
 ### Risk Management in Marine Social-Ecological Systems
 We are interested in thinking outside the box in terms of what tools can be used for developing sustainable marine social-ecological systems. In particular we are designing new financial tools that incentivize best management practices by both fishers and aquaculturalists. These include new insurance policies and forwards/futures contracts, and the use of new distributed technologies like Blockchain.
 
+<!---
 ### Global Marine Ecosystem Modeling
 Working with Earth-System Modelers at the [Geophysical Fluids Dynamics  Lab](http://www.gfdl.noaa.gov/), specifically [Dr.Charles Stock](http://www.gfdl.noaa.gov/charles-stock-homepage), we develop and run global marine ecosystem models that resolve organisms bigger than zooplankton (not obvious, but this is rare). We use simple size-based / allometric relationships as the backbone of our ecosytem models. The goal is to use these global models to estimate how pelagic marine ecosystem might respond to future climate change and different fishing scenarios.
+-->
 
 ###  Marine Connectivity
 <img style="float: right" src="scb.png" width="45%" />
