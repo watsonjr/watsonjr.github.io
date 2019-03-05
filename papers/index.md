@@ -11,7 +11,7 @@ image:
 +co-lead author
 
 ### In review
-[39] **Watson JR**, Gelbaum Z, Titus M, Zoch M, Wrathall D. Manifold Learning of the Dominant Modes of Human Mobility. In review at PNAS.
+[39] **Watson JR**, Gelbaum Z, Titus M, Zoch M, Wrathall D. Manifold Learning of the Dominant Modes of Human Mobility. In review at PNAS. [Complex Systems]
 
 [38] Siegel DA, Watson JR, Simons RD, Mitarai S & McWilliams JC. Characterizing Particle Transit Time Metrics in a Coastal Ocean Network. In review at the Journal of Geophysical Research. [Oceanography]
 
