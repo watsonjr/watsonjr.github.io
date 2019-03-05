@@ -11,22 +11,29 @@ image:
 +co-lead author
 
 ### In review
-[36] Siegel DA, Watson JR, Simons RD, Mitarai S & McWilliams JC. Characterizing Particle Transit Time Metrics in a Coastal Ocean Network. In review at the Journal of Geophysical Research. [Oceanography]
+[39] **Watson JR**, Gelbaum Z, Titus M, Zoch M, Wrathall D. Manifold Learning of the Dominant Modes of Human Mobility. In review at PNAS.
 
-[35] Folke C, Österblom H, Jouffray J-B, Lambin E, Scheffer M,  Crona B, Adger N, Anderies J, Barrett S, Carpenter S, Chapin III S, Crépin A-S, Dannenberg A, Ehrlich P, Gordon L, Kautsky N, Nyborg K, Nyström M, Walker B, Watson JR, Wilen J, Zeeuw A de. Earth’s future in the hands of a few. In review at Science. [Economics / Fisheries]
+[38] Siegel DA, Watson JR, Simons RD, Mitarai S & McWilliams JC. Characterizing Particle Transit Time Metrics in a Coastal Ocean Network. In review at the Journal of Geophysical Research. [Oceanography]
 
-[34] Burgess MG, Carrella E, Drexler M, Axtell RL, Bailey RM, Watson JR, Ananthanaryanan A, Cabral RB, Clemence M, Costello C, Dorsett C, Gaines SD, Klein ES, Koralus P, Leonard G, Levin SA, Little LR, Lynham J, Madsen JK, Merkl A, Owashi B, Saul SE, van Putten IE, Wilcox S. Opportunities for agent-based modeling in fisheries social science. In review at Fish and Fisheries. [Fisheries]
+[37] Folke C, Österblom H, Jouffray J-B, Lambin E, Scheffer M,  Crona B, Adger N, Anderies J, Barrett S, Carpenter S, Chapin III S, Crépin A-S, Dannenberg A, Ehrlich P, Gordon L, Kautsky N, Nyborg K, Nyström M, Walker B, Watson JR, Wilen J, Zeeuw A de. Earth’s future in the hands of a few. In review at Science. [Economics / Fisheries]
 
-[33] Kininmonth S, Blenckner T, Niiranen S, Watson JR, Orio A, Casini M, Neuenfeldt S, Bartolino V, Hansson M. Is biotope information the missing link in coastal fisheries management? In review at Fish and Fisheries. [Fisheries]
+[36] Burgess MG, Carrella E, Drexler M, Axtell RL, Bailey RM, Watson JR, Ananthanaryanan A, Cabral RB, Clemence M, Costello C, Dorsett C, Gaines SD, Klein ES, Koralus P, Leonard G, Levin SA, Little LR, Lynham J, Madsen JK, Merkl A, Owashi B, Saul SE, van Putten IE, Wilcox S. Opportunities for agent-based modeling in fisheries social science. In review at Fish and Fisheries. [Fisheries]
+
+[35] Kininmonth S, Blenckner T, Niiranen S, Watson JR, Orio A, Casini M, Neuenfeldt S, Bartolino V, Hansson M. Is biotope information the missing link in coastal fisheries management? In review at Fish and Fisheries. [Fisheries]
+
+### 2019
+[34] Titus M, Gelbaum Z, **Watson JR**. Critical Speeding up as an early warning signal of regime switching. ArXiv:1901.08084v1 [Complex Systems]
+
+[33] Gelbaum Z, Titus M, **Watson JR**. Multi-Scale Analysis on Complex Networks using Hermitian Graph Wavelets. ArXiv:1901.07051v1 [Complex Systems]
+
+[32] McManus LC, **Watson JR**, Vasconcelos VV, & Levin SA. Nonlinear Dynamics of Coral-Algae Systems and Their Recruitment Dependent Resilience. Theoretical Ecology, https://doi.org/10.1007/s12080-018-0388-x. [Ecology]
 
 ### 2018
-[32] Elsler L, Drohan S, Schlueter M, Watson JR, Levin SA. Local, Global, Multi-level: Market Structure and Multi-species Fishery Dynamics. Ecological Economics, 156, 85-195. [Economics / Fisheries]
+[31] Elsler L, Drohan S, Schlueter M, Watson JR, Levin SA. Local, Global, Multi-level: Market Structure and Multi-species Fishery Dynamics. Ecological Economics, 156, 85-195. [Economics / Fisheries]
 
-[31] Watson JR, Amerin F, Klinger D, Belton B. Resilience through Risk Management: Cooperative Weather Insurance in Small-holder Aquaculture Systems. Heliyon 4 (2018) e00799. [Economics]
+[30] Watson JR, Amerin F, Klinger D, Belton B. Resilience through Risk Management: Cooperative Weather Insurance in Small-holder Aquaculture Systems. Heliyon 4 (2018) e00799. [Economics]
 
-[30] Tilman AR, Levin SA & **Watson JR**. Revenue-sharing clubs provide economic insurance as well as incentives for using common-pool resources sustainably. Journal of Theoretical Biology, 454, 205-214. [Economics]
-
-[29] McManus LC, **Watson JR**, Vasconcelos VV, & Levin SA. Nonlinear Dynamics of Coral-Algae Systems and Their Recruitment Dependent Resilience. Theoretical Ecology, https://doi.org/10.1007/s12080-018-0388-x. [Ecology]
+[29] Tilman AR, Levin SA & **Watson JR**. Revenue-sharing clubs provide economic insurance as well as incentives for using common-pool resources sustainably. Journal of Theoretical Biology, 454, 205-214. [Economics]
 
 [28] Villarino E., **Watson JR** et al. Large-scale ocean connectivity and planktonic body size. Nature Communications 2018, 9 (142) doi:10.1038/s41467-017-02535-8. [Oceanography]
 
