@@ -17,7 +17,7 @@ _email:_ jrwatson@coas.oregonstate.edu<br>
 [Google Scholar](https://scholar.google.se/citations?user=LHQ0BPkAAAAJ&hl=en)<br>
 [CV](http://watsonjr.github.io/people/Watson_CV.pdf)<br>
 
-__CEO and Founder__<br>
+__CEO and Co-Founder__<br>
 The Prediction Lab LLC.<br>
 A think and do tank that solves hard problems using tools from mathematics and computer science.
 
@@ -29,10 +29,15 @@ Post-doc, Dept. Ecology and Evolutionary Biology, Princeton University, USA, 201
 Research Scientist, Stockholm Resilience Centre, Sweden, 2014-2017<br>
 
 ## Post-docs
-2017 -- **Zach Gelbaum**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
+2019 -- **Alison Iles**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.
+2019 -- **Ernesto Villarino**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.
+2018 -- **John Woodill**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.
 2017 -- **Mathew Titus**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
+2017 -- **Zach Gelbaum**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 
 ## Students
+2019 -- **Anne Devon-Song**, Integrative Biology, Oregon State University. <br>
+2019 -- **Nico Gomez**, Marine Resource Management Program, Oregon State University. <br>
 2018 -- **Keiko Nomura**, Marine Resource Management Program, Oregon State University. <br>
 2017 -- **Steven Johnson**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 2017 -- **Ciera Villegas**, Environmental Sciences Graduate Program, Oregon State University.
