@@ -29,18 +29,18 @@ Post-doc, Dept. Ecology and Evolutionary Biology, Princeton University, USA, 201
 Research Scientist, Stockholm Resilience Centre, Sweden, 2014-2017<br>
 
 ## Post-docs
-2019 -- **Alison Iles**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.
-2019 -- **Ernesto Villarino**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.
-2018 -- **John Woodill**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.
+2019 -- **Alison Iles**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
+2019 -- **Ernesto Villarino**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
+2018 -- **John Woodill**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 2017 -- **Mathew Titus**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 2017 -- **Zach Gelbaum**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 
 ## Students
-2019 -- **Anne Devon-Song**, Integrative Biology, Oregon State University. <br>
-2019 -- **Nico Gomez**, Marine Resource Management Program, Oregon State University. <br>
-2018 -- **Keiko Nomura**, Marine Resource Management Program, Oregon State University. <br>
-2017 -- **Steven Johnson**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
-2017 -- **Ciera Villegas**, Environmental Sciences Graduate Program, Oregon State University.
+2019 -- **Anne Devon-Song**, PhD Integrative Biology, Oregon State University. <br>
+2019 -- **Nico Gomez**, MS Marine Resource Management Program, Oregon State University. <br>
+2018 -- **Keiko Nomura**, MS Marine Resource Management Program, Oregon State University. <br>
+2017 -- **Steven Johnson**, PhD College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
+2017 -- **Ciera Villegas**, PhD Environmental Sciences Graduate Program, Oregon State University.
 
 ## Alumni
 __Emily Klein__<br>
