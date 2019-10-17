@@ -19,7 +19,8 @@ _email:_ jrwatson@coas.oregonstate.edu<br>
 
 __CEO and Co-Founder__<br>
 The Prediction Lab LLC.<br>
-A think and do tank that solves hard problems using tools from mathematics and computer science.
+A think and do tank that solves hard problems using tools from mathematics and computer science.<br>
+[Web](https://thepredictionlab.com/)<br>
 
 __Education__<br>
 BSc Biochemistry, University of Bristol, UK, 1998-2001<br>
