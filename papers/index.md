@@ -11,22 +11,29 @@ image:
 +co-lead author
 
 ### In review
-[41] **Watson JR**, Gelbaum Z, Titus M, Zoch M, Wrathall D. Manifold Learning of the Dominant Modes of Human Mobility. In review at PNAS. [Complex Systems]
+[44] Titus M and **Watson JR**. Critical Speeding Up as an Early Warning Signal of Stochastic Regime Shifts. In review at Theoretical Ecology. [Complex Systems / Ecology]
 
-[40] Siegel DA, **Watson JR**, Simons RD, Mitarai S & McWilliams JC. Characterizing Particle Transit Time Metrics in a Coastal Ocean Network. In review at the Journal of Geophysical Research. [Oceanography]
+[43] **Watson JR** and Woodill JA. Anticipating Illegal Maritime Activities from Anomalous Multiscale Fleet Behavior. In review at Conservation Letters. [Complex Systems / Fisheries]
 
-[39] Folke C, Österblom H, Jouffray J-B, Lambin E, Scheffer M,  Crona B, Adger N, Anderies J, Barrett S, Carpenter S, Chapin III S, Crépin A-S, Dannenberg A, Ehrlich P, Gordon L, Kautsky N, Nyborg K, Nyström M, Walker B, **Watson JR**, Wilen J, Zeeuw A de. Earth’s future in the hands of a few. In review at Science. [Economics / Fisheries]
+[42] **Watson JR**, Gelbaum Z, Titus M, Zoch M, Wrathall D. Manifold Learning of the Dominant Modes of Human Mobility. In review at PeerJ Computer Science. [Complex Systems]
 
-[38] Burgess MG, Carrella E, Drexler M, Axtell RL, Bailey RM, **Watson JR**, Ananthanaryanan A, Cabral RB, Clemence M, Costello C, Dorsett C, Gaines SD, Klein ES, Koralus P, Leonard G, Levin SA, Little LR, Lynham J, Madsen JK, Merkl A, Owashi B, Saul SE, van Putten IE, Wilcox S. Opportunities for agent-based modeling in fisheries social science. In review at Fish and Fisheries. [Fisheries]
+[41] Siegel DA, **Watson JR**, Simons RD, Mitarai S & McWilliams JC. Characterizing Particle Transit Time Metrics in a Coastal Ocean Network. In review at the Journal of Geophysical Research. [Oceanography]
 
-[37] Kininmonth S, Blenckner T, Niiranen S, **Watson JR**, Orio A, Casini M, Neuenfeldt S, Bartolino V, Hansson M. Is biotope information the missing link in coastal fisheries management? In review at Fish and Fisheries. [Fisheries]
+[40] Burgess MG, Carrella E, Drexler M, Axtell RL, Bailey RM, **Watson JR**, Ananthanaryanan A, Cabral RB, Clemence M, Costello C, Dorsett C, Gaines SD, Klein ES, Koralus P, Leonard G, Levin SA, Little LR, Lynham J, Madsen JK, Merkl A, Owashi B, Saul SE, van Putten IE, Wilcox S. Opportunities for agent-based modeling in fisheries social science. In review at Fish and Fisheries. [Fisheries]
+
 
 ### 2019
+[39] Petrik CM, Stock CA, Andersen KH, van Denderen PD, Watson JR. Bottom-up drivers of global patterns of demersal, forage, and pelagic fishes. Progress in Oceanography. 2019 Jun 17:102124. [Oceanography]
+
+[38] Folke C, Österblom H, Jouffray JB, Lambin EF, Adger WN, Scheffer M, Crona BI, Nyström M, Levin SA, Carpenter SR, Anderies JM. Transnational corporations and the challenge of biosphere stewardship. Nature ecology & evolution. 2019 Sep 16:1-8. [Economics / Fisheries]
+
+[37] Burgess MG, Carrella E, Drexler M, Axtell RL, Bailey RM, Watson JR, Cabral RB, Clemence M, Costello C, Dorsett C, Gaines SD. Opportunities for agent-based modeling in fisheries social science.SocArXiv, DOI: 10.31235/osf.io/gzhm5
+
 [36] Titus M, Gelbaum Z, **Watson JR**. Critical Speeding up as an early warning signal of regime switching. ArXiv:1901.08084v1 [Complex Systems]
 
 [35] Gelbaum Z, Titus M, **Watson JR**. Multi-Scale Analysis on Complex Networks using Hermitian Graph Wavelets. ArXiv:1901.07051v1 [Complex Systems]
 
-[34] McManus LC, **Watson JR**, Vasconcelos VV, & Levin SA. Nonlinear Dynamics of Coral-Algae Systems and Their Recruitment Dependent Resilience. Theoretical Ecology, https://doi.org/10.1007/s12080-018-0388-x. [Ecology]
+[34] McManus LC, **Watson JR**, Vasconcelos VV, & Levin SA. Stability and recovery of coral-algae systems: the importance of recruitment seasonality and grazing influence. Theoretical Ecology, https://doi.org/10.1007/s12080-018-0388-x. [Ecology]
 
 ### 2018
 [33] Elsler L, Drohan S, Schlueter M, **Watson JR**, Levin SA. Local, Global, Multi-level: Market Structure and Multi-species Fishery Dynamics. Ecological Economics, 156, 85-195. [Economics / Fisheries]
