@@ -23,11 +23,11 @@ image:
 
 
 ### 2019
-[39] Petrik CM, Stock CA, Andersen KH, van Denderen PD, Watson JR. Bottom-up drivers of global patterns of demersal, forage, and pelagic fishes. Progress in Oceanography. 2019 Jun 17:102124. [Oceanography]
+[39] Petrik CM, Stock CA, Andersen KH, van Denderen PD, **Watson JR**. Bottom-up drivers of global patterns of demersal, forage, and pelagic fishes. Progress in Oceanography. 2019 Jun 17:102124. [Oceanography]
 
-[38] Folke C, Österblom H, Jouffray JB, Lambin EF, Adger WN, Scheffer M, Crona BI, Nyström M, Levin SA, Carpenter SR, Anderies JM. Transnational corporations and the challenge of biosphere stewardship. Nature ecology & evolution. 2019 Sep 16:1-8. [Economics / Fisheries]
+[38] Folke C, Österblom H, Jouffray JB, Lambin EF, Adger WN, Scheffer M, Crona BI, Nyström M, Levin SA, Carpenter SR, Anderies JM,  Chapin S, Crépin, A-S, Dauriach A, Galaz V, Gordon L, Kautsky N, Walker BH, **Watson JR**, Wilen J, de Zeeuw A. Transnational corporations and the challenge of biosphere stewardship. Nature ecology & evolution. 2019 Sep 16:1-8. [Economics / Fisheries]
 
-[37] Burgess MG, Carrella E, Drexler M, Axtell RL, Bailey RM, Watson JR, Cabral RB, Clemence M, Costello C, Dorsett C, Gaines SD. Opportunities for agent-based modeling in fisheries social science.SocArXiv, DOI: 10.31235/osf.io/gzhm5
+[37] Burgess MG, Carrella E, Drexler M, Axtell RL, Bailey RM, **Watson JR**, Cabral RB, Clemence M, Costello C, Dorsett C, Gaines SD, Klein ES, Koralus P, Leonard G, Levin SA,   Little LR, Lynham J, Madsen JK, Merkl A, Owashi B, Saul SE, van Putten IE, Wilcox S. Opportunities for agent-based modeling in fisheries social science.SocArXiv, DOI: 10.31235/osf.io/gzhm5
 
 [36] Titus M, Gelbaum Z, **Watson JR**. Critical Speeding up as an early warning signal of regime switching. ArXiv:1901.08084v1 [Complex Systems]
 
