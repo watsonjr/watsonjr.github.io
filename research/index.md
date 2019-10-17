@@ -14,13 +14,13 @@ We are involved in a number of research projects spanning complex systems scienc
 Funded by **NASA** we are developing new data analytic methods for predicting illegal activities (i.e. really bad stuff like narcotics and slave trafficking) based on anomalous cross-scale spatial behaviors of maritime vessels. The project uses NASA nightlight and AIS data in conjunction with new mathematical methods based on collective behavior in complex systems. 
 
 ### Cross-scale Properties of Complex Adaptive Systems
-Funded by **DARPA** we are developing new multi-scale data analytic methods, based on manifold learning, for characterizing and predicting large changes in various complex adaptive systems, ranging from ecosystems, financial markets, housing markets, power-grids and systems exhibiting collective behavior (e.g. fish schools). 
+Funded by **DARPA** we are developing new multi-scale data analytic methods, based on manifold learning, for characterizing, interpolating and predicting dynamics in complex adaptive systems. In particular we are focused on predicting large (catestrophic) changes in ecosystems, financial markets, housing markets, power-grids and systems exhibiting collective behavior (e.g. fish schools). 
 
 ### Complex and Dynamic Socio-environmental Systems
 <!---
 <img style="float: right" src="abm.png" hspace="5" width="35%" />
 -->
-We are developing novel mathematical models and agent-based simulations, and analyzing novel socio-environmental datasets for socio-environmental systems. Some of the topics we are working on include changing spatial behaviors of fishermen, human community vulnerability and adaptive capacity in the face of natural hazards, the innovation and diffusion of conservation norms, and predicting human mobility as people respond to climate change. 
+We are develop novel theory, mathematical models and agent-based simulations for analyzing socio-environmental systems. Some of the topics we are working on include changing spatial behaviors of fishermen, human community vulnerability and adaptive capacity in the face of natural hazards, the innovation and diffusion of conservation norms, and predicting human mobility as people respond to climate change. 
 
 ### Risk Management
 We are interested in thinking outside the box in terms of what tools can be used for developing sustainable marine social-ecological systems. In particular we are designing new financial tools that incentivize best management practices by both fishers and aquaculturalists. These include new insurance policies and forwards/futures contracts, and the use of new distributed technologies like Blockchain.
