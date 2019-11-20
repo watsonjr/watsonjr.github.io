@@ -22,12 +22,14 @@ The Prediction Lab LLC.<br>
 A think and do tank that solves hard problems using tools from mathematics and computer science.<br>
 [Website](https://thepredictionlab.com/)<br>
 
-__Education__<br>
+__Education and Professional Appointments__<br>
 BSc Biochemistry, University of Bristol, UK, 1998-2001<br>
 MSc Oceanography, National Oceanography Centre, UK, 2003-2005<br>
 PhD Marine Science, University of California Santa Barbara, USA, 2006-2011<br>
-Post-doc, Dept. Ecology and Evolutionary Biology, Princeton University, USA, 2011-2014<br>
-Research Scientist, Stockholm Resilience Centre, Sweden, 2014-2017<br>
+Post-doc Scholar, Atmospheric And Ocean Sciences program (AOS), Princeton University, USA, 2011-2013<br>
+Post-doc Research Associate, Dept. Ecology and Evolutionary Biology, Princeton University, USA, 2014<br>
+Forskare / Research Assistant Professor, Stockholm Resilience Centre, Sweden, 2014-2017<br>
+Assistant Professor, Oregon State University, OR, USA, 2017-present<br>
 
 ## Post-docs
 2019 -- **Alison Iles**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
@@ -37,37 +39,21 @@ Research Scientist, Stockholm Resilience Centre, Sweden, 2014-2017<br>
 2017 -- **Zach Gelbaum**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 
 ## Students
+2019 -- **Mihir Joshi**, Middle school student, Howard Street Charter School, Salem. <br>
 2019 -- **Anne Devon-Song**, PhD Integrative Biology, Oregon State University. <br>
 2019 -- **Nico Gomez**, MS Marine Resource Management Program, Oregon State University. <br>
+2018 -- **Thomas Braun**, BS Geography, Oregon State University. <br>
 2018 -- **Keiko Nomura**, MS Marine Resource Management Program, Oregon State University. <br>
 2017 -- **Steven Johnson**, PhD College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 2017 -- **Ciera Villegas**, PhD Environmental Sciences Graduate Program, Oregon State University.
 
 ## Alumni
-__Emily Klein__<br>
-Emily was a post-doc at Princeton University who took part in the SERENE exchange program with the Stockholm Resilience Centre, 2013-2015. Emily worked on human behavioral challenges in fisheries.<br>
-
-__Matthieu Barbier__<br>
-Matthieu was a post-doc at Princeton University who took part in the SERENE exchange program with the Stockholm Resilience Centre, 2013-2015. Matthieu worked on developing Agent-based Models of fisheries.<br>
-
-__Andrew Tilman__<br>
-Andrew was a PhD student at Princeton University who took part in the SERENE exchange program with the Stockholm Resilience Centre, 2013-2017. Andrew developed economic incentives for sustainable fisheries.<br> 
-
-__Lisa McManus__<br>
-Lisa was a PhD student at Princeton University who took part in the SERENE exchange program with the Stockholm Resilience Centre, 2013-2017. Lisa worked on predicting the response of coral systems to climate change.<br>
-
-__Laura Elsler__<br>
-Laura completed her Masters research project, from the University of Graz, with us in 2015.<br>
-
-__Roweena Patel__<br>
-Roweena completed her Masters research project, from the Stockholm University, with us in 2015.<br>
-
-__Angela Zhou__<br>
-Angela worked with us as an undergraduate summer intern in 2014 when she was at Princeton University <br>
-
-__Jen Zhao__<br>
-Jenn worked with us as an undergraduate summer intern in 2014 when she was at Princeton University <br>
-
-__Alex Ahn__<br>
-Alex worked with us as an undergraduate summer intern in 2013 and 2014 while he was at Swarthmore College <br>
-
+__Emily Klein__; Stockholm Resilience Centre / Princeton University exchange program<br>
+__Matthieu Barbier__; Stockholm Resilience Centre / Princeton University exchange program<br>
+__Andrew Tilman__; Stockholm Resilience Centre / Princeton University exchange program<br>
+__Lisa McManus__; Stockholm Resilience Centre / Princeton University exchange program<br>
+__Laura Elsler__; MS Sustainable Development-Environmental Sciences, University of Graz<br>
+__Roweena Patel__; MS Sustainability Science, Stockholm Resilience Centre<br>
+__Angela Zhou__; Stockholm Resilience Centre research intern from Princeton University<br>
+__Jen Zhao__; Stockholm Resilience Centre research intern from Princeton University<br>
+__Alex Ahn__; Stockholm Resilience Centre research intern from Swarthmore College<br>
