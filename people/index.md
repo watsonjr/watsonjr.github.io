@@ -48,12 +48,12 @@ Assistant Professor, Oregon State University, OR, USA, 2017-present<br>
 2017 -- **Ciera Villegas**, PhD Environmental Sciences Graduate Program, Oregon State University.
 
 ## Alumni
-__Emily Klein__; Stockholm Resilience Centre / Princeton University exchange program<br>
-__Matthieu Barbier__; Stockholm Resilience Centre / Princeton University exchange program<br>
-__Andrew Tilman__; Stockholm Resilience Centre / Princeton University exchange program<br>
-__Lisa McManus__; Stockholm Resilience Centre / Princeton University exchange program<br>
-__Laura Elsler__; MS Sustainable Development-Environmental Sciences, University of Graz<br>
-__Roweena Patel__; MS Sustainability Science, Stockholm Resilience Centre<br>
-__Angela Zhou__; Stockholm Resilience Centre research intern from Princeton University<br>
-__Jen Zhao__; Stockholm Resilience Centre research intern from Princeton University<br>
-__Alex Ahn__; Stockholm Resilience Centre research intern from Swarthmore College<br>
+__Emily Klein__; Post-doc, Stockholm Resilience Centre / Princeton University exchange program<br>
+__Matthieu Barbier__; Post-doc, Stockholm Resilience Centre / Princeton University exchange program<br>
+__Andrew Tilman__; PhD student, Stockholm Resilience Centre / Princeton University exchange program<br>
+__Lisa McManus__; PhD student, Stockholm Resilience Centre / Princeton University exchange program<br>
+__Laura Elsler__; MS student, Sustainable Development-Environmental Sciences, University of Graz<br>
+__Roweena Patel__; MS student, Sustainability Science, Stockholm Resilience Centre<br>
+__Angela Zhou__; BS student, Stockholm Resilience Centre research intern from Princeton University<br>
+__Jen Zhao__; BS student, Stockholm Resilience Centre research intern from Princeton University<br>
+__Alex Ahn__; BS student, Stockholm Resilience Centre research intern from Swarthmore College<br>
