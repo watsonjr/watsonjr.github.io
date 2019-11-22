@@ -46,8 +46,8 @@ Assistant Professor, Oregon State University, OR, USA, 2017-present<br>
 2017 -- **Steven Johnson**, PhD College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 2017 -- **Ciera Villegas**, PhD Environmental Sciences Graduate Program, Oregon State University.
 
-## Alumni
-__Alison Iles__, 2019, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
+## Former Lab Members
+__Alison Iles__, 2019, Post-doc, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 __Zach Gelbaum__, 2017-2019, Post-doc, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 __Emily Klein__; 2014-2016, Post-doc, Stockholm Resilience Centre / Princeton University exchange program<br>
 __Matthieu Barbier__; 2014-2016, Post-doc, Stockholm Resilience Centre / Princeton University exchange program<br>
