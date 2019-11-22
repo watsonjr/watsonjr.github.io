@@ -39,6 +39,7 @@ Assistant Professor, Oregon State University, OR, USA, 2017-present<br>
 ## Students
 2019 -- **Mihir Joshi**, Middle school student, Howard Street Charter School, Salem. <br>
 2019 -- **Anne Devon-Song**, PhD Integrative Biology, Oregon State University. <br>
+2019 -- **Ginny Katz**, PhD Geography, Oregon State University. <br> 
 2019 -- **Nico Gomez**, MS Marine Resource Management Program, Oregon State University. <br>
 2018 -- **Thomas Braun**, BS Geography, Oregon State University. <br>
 2018 -- **Keiko Nomura**, MS Marine Resource Management Program, Oregon State University. <br>
