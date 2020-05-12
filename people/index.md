@@ -8,8 +8,8 @@ image:
 ---
 
 
-## PI -- James Watson
-<img style="float: right" src="Zoe_photo.jpg" width="40%" />
+## James R. Watson
+<img style="float: right" src="Zoe_photo.jpg" width="43%" />
 __Assistant Professor__<br>
 College of Earth, Ocean and Atmospheric Sciences<br>
 Oregon State University, USA<br>
@@ -39,8 +39,8 @@ Assistant Professor, Oregon State University, OR, USA, 2017-present<br>
 
 ## Students
 2019 -- **Mihir Joshi**, Middle school student, Howard Street Charter School, Salem. <br>
+<img style="float: right" src="Anne_photo.jpg" width="15%" />
 2019 -- **Anne Devon-Song**, PhD Integrative Biology, Oregon State University. <br>
-<img style="float: right" src="Anne_photo.jpg" width="22%" /><br>
 <br>
 <br>
 <br>
