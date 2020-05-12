@@ -54,7 +54,7 @@ Anne is a field biologist from Singapore, who studies wildlife and human-wildlif
 
 2019 -- **Ginny Katz**, PhD student in Geography, Oregon State University. <br> 
 
-<img style="float: right" src="Nico_photo.jpg" width="18%" />
+<img style="float: right" src="Nico_photo.png" width="18%" />
 2019 -- **Nicolás Gómez-Andújar**, MS student in the Marine Resource Management Program, Oregon State University.
 Nico researches the adaptive governance of coastal socio-ecological systems. His current work focuses on cooperative and non-cooperative behaviors of small-scale fishers in Puerto Rico and the role of social-networks and informal arrangements that fishers have in order to cope with ecosystem change and social instability. <br>
 
