@@ -9,7 +9,7 @@ image:
 
 
 ## PI -- James Watson
-<img style="float: right" src="Zoe_photo.jpg" width="32%" />
+<img style="float: right" src="Zoe_photo.jpg" width="40%" />
 __Assistant Professor__<br>
 College of Earth, Ocean and Atmospheric Sciences<br>
 Oregon State University, USA<br>
@@ -19,8 +19,7 @@ _email:_ jrwatson@coas.oregonstate.edu<br>
 
 __CEO and Co-Founder__<br>
 The Prediction Lab LLC.<br>
-A think and do tank that solves hard problems using tools from mathematics and computer science.<br>
-[Website](https://thepredictionlab.com/)<br>
+A think and do tank that solves hard problems using tools from mathematics and computer science. Visit our [Website](https://thepredictionlab.com/)<br>
 We make cool products like:
 [A harmful algal bloom prediction system](https://detroitlake.thepredictionlab.com/home)<br>
 
@@ -42,6 +41,10 @@ Assistant Professor, Oregon State University, OR, USA, 2017-present<br>
 2019 -- **Mihir Joshi**, Middle school student, Howard Street Charter School, Salem. <br>
 <img style="float: right" src="Anne_photo.jpg" width="22%" /><br>
 2019 -- **Anne Devon-Song**, PhD Integrative Biology, Oregon State University. <br>
+p {
+    padding-bottom: 3cm;
+}
+
 2019 -- **Ginny Katz**, PhD Geography, Oregon State University. <br> 
 2019 -- **Nico Gomez**, MS Marine Resource Management Program, Oregon State University. <br>
 2018 -- **Keiko Nomura**, MS Marine Resource Management Program, Oregon State University. <br>
