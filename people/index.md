@@ -45,7 +45,8 @@ Climate change impacts on the spatial distribution of marine biodiversity and ec
 2019 -- **Mihir Joshi**, Middle school student, Howard Street Charter School, Salem. <br>
 
 <img style="float: right" src="Anne_photo.jpg" width="18%" />
-2019 -- **Anne Devan-Song**, PhD Integrative Biology, Oregon State University. <br>
+2019 -- **Anne Devan-Song**, PhD student in Integrative Biology, Oregon State University. <br>
+Anne is a field biologist from Singapore, who studies wildlife and human-wildlife networks and their implications for a wide variety of disease and conservation problems. Her website is [here](https://[Website](https://devansong.weebly.com/).
 <br>
 <br>
 <br>
