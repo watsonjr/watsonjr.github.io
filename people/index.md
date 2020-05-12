@@ -47,7 +47,7 @@ Assistant Professor, Oregon State University, OR, USA, 2017-present<br>
 2018 -- **Keiko Nomura**, MS Marine Resource Management Program, Oregon State University. <br>
 2017 -- **Steven Johnson**, PhD College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 <img style="float: right" src="Ciera_photo.jpeg" width="22%" />
-2017 -- **Ciera Villegas**, PhD Environmental Sciences Graduate Program, Oregon State University.
+2017 -- **Ciera Villegas**, PhD Environmental Sciences Graduate Program, Oregon State University. <br>
 
 ## Former Lab Members
 __Mathew Titus__, 2017-2020, Post-doc, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
