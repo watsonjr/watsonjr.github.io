@@ -33,7 +33,7 @@ Forskare / Research Assistant Professor, Stockholm Resilience Centre, Sweden, 20
 Assistant Professor, Oregon State University, OR, USA, 2017-present<br>
 
 ## Post-docs
-2020 -- **George Hagstrom**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University and Princeton University.<br>
+<!--2020 -- **George Hagstrom**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University and Princeton University.<br>-->
 
 2019 -- **Ernesto Villarino**, AZTI Tecnalia, Spain.<br>
 
@@ -57,7 +57,7 @@ Assistant Professor, Oregon State University, OR, USA, 2017-present<br>
 
 2017 -- **Steven Johnson**, PhD College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 
-<img style="float: right" src="Ciera_photo.jpeg" width="20%" />
+<img style="float: right" src="Ciera_photo.jpeg" width="18%" />
 2017 -- **Ciera Villegas**, PhD Environmental Sciences Graduate Program, Oregon State University. <br>
 <br>
 <br>
