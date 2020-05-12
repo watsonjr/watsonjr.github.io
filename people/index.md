@@ -41,8 +41,8 @@ Assistant Professor, Oregon State University, OR, USA, 2017-present<br>
 
 ## Students
 2019 -- **Mihir Joshi**, Middle school student, Howard Street Charter School, Salem. <br>
-<img style="float: right" src="Anne_photo.jpg" width="18%" />
 
+<img style="float: right" src="Anne_photo.jpg" width="18%" />
 2019 -- **Anne Devon-Song**, PhD Integrative Biology, Oregon State University. <br>
 <br>
 <br>
