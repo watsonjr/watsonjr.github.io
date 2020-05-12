@@ -35,7 +35,7 @@ Assistant Professor, Oregon State University, OR, USA, 2017-present<br>
 ## Post-docs
 <!--2020 -- **George Hagstrom**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University and Princeton University.<br>-->
 
-<img style="float: right" src="Erneseto_photo.jpg" width="18%" />
+<img style="float: right" src="Ernesto_photo.jpg" width="18%" />
 2019 -- **Ernesto Villarino**, AZTI Tecnalia, Spain.<br>
 Climate change impacts on the spatial distribution of marine biodiversity and ecosystem functions.
 
