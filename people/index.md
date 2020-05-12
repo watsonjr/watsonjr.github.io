@@ -34,24 +34,34 @@ Assistant Professor, Oregon State University, OR, USA, 2017-present<br>
 
 ## Post-docs
 2020 -- **George Hagstrom**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University and Princeton University.<br>
+
 2019 -- **Ernesto Villarino**, AZTI Tecnalia, Spain.<br>
+
 2018 -- **John Woodill**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 
 ## Students
 2019 -- **Mihir Joshi**, Middle school student, Howard Street Charter School, Salem. <br>
-<img style="float: right" src="Anne_photo.jpg" width="15%" />
+<img style="float: right" src="Anne_photo.jpg" width="18%" />
+
 2019 -- **Anne Devon-Song**, PhD Integrative Biology, Oregon State University. <br>
 <br>
 <br>
 <br>
 <br>
-<br>
+
 2019 -- **Ginny Katz**, PhD Geography, Oregon State University. <br> 
+
 2019 -- **Nico Gomez**, MS Marine Resource Management Program, Oregon State University. <br>
+
 2018 -- **Keiko Nomura**, MS Marine Resource Management Program, Oregon State University. <br>
+
 2017 -- **Steven Johnson**, PhD College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
-<img style="float: right" src="Ciera_photo.jpeg" width="22%" />
+
+<img style="float: right" src="Ciera_photo.jpeg" width="20%" />
 2017 -- **Ciera Villegas**, PhD Environmental Sciences Graduate Program, Oregon State University. <br>
+<br>
+<br>
+<br>
 
 ## Former Lab Members
 __Mathew Titus__, 2017-2020, Post-doc, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
