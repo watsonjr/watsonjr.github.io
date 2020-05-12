@@ -21,6 +21,8 @@ __CEO and Co-Founder__<br>
 The Prediction Lab LLC.<br>
 A think and do tank that solves hard problems using tools from mathematics and computer science.<br>
 [Website](https://thepredictionlab.com/)<br>
+We make cool products like:
+[A harmful algal bloom prediction system](https://detroitlake.thepredictionlab.com/home)<br>
 
 __Education and Professional Appointments__<br>
 BSc Biochemistry, University of Bristol, UK, 1998-2001<br>
@@ -32,21 +34,23 @@ Forskare / Research Assistant Professor, Stockholm Resilience Centre, Sweden, 20
 Assistant Professor, Oregon State University, OR, USA, 2017-present<br>
 
 ## Post-docs
+2020 -- **George Hagstrom**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University and Princeton University.<br>
 2019 -- **Ernesto Villarino**, AZTI Tecnalia, Spain.<br>
 2018 -- **John Woodill**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
-2017 -- **Mathew Titus**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 
 ## Students
 2019 -- **Mihir Joshi**, Middle school student, Howard Street Charter School, Salem. <br>
+<img style="float: right" src="Anne_photo.jpeg" width="22%" />
 2019 -- **Anne Devon-Song**, PhD Integrative Biology, Oregon State University. <br>
 2019 -- **Ginny Katz**, PhD Geography, Oregon State University. <br> 
 2019 -- **Nico Gomez**, MS Marine Resource Management Program, Oregon State University. <br>
-2018 -- **Thomas Braun**, BS Geography, Oregon State University. <br>
 2018 -- **Keiko Nomura**, MS Marine Resource Management Program, Oregon State University. <br>
 2017 -- **Steven Johnson**, PhD College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
+<img style="float: right" src="Ciera_photo.jpeg" width="22%" />
 2017 -- **Ciera Villegas**, PhD Environmental Sciences Graduate Program, Oregon State University.
 
 ## Former Lab Members
+__Mathew Titus__, 2017-2020, Post-doc, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 __Alison Iles__, 2019, Post-doc, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 __Zach Gelbaum__, 2017-2019, Post-doc, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 __Emily Klein__; 2014-2016, Post-doc, Stockholm Resilience Centre / Princeton University exchange program<br>
