@@ -40,8 +40,6 @@ Assistant Professor, Oregon State University, OR, USA, 2017-present<br>
 Climate change impacts on the spatial distribution of marine biodiversity and ecosystem functions.
 <br>
 <br>
-<br>
-<br>
 
 2018 -- **John Woodill**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 
@@ -49,23 +47,21 @@ Climate change impacts on the spatial distribution of marine biodiversity and ec
 2019 -- **Mihir Joshi**, Middle school student, Howard Street Charter School, Salem. <br>
 
 <img style="float: right" src="Anne_photo.jpg" width="18%" />
-2019 -- **Anne Devan-Song**, PhD student in Integrative Biology, Oregon State University. <br>
+2019 -- **Anne Devan-Song**, PhD student in Integrative Biology, Oregon State University.
 Anne is a field biologist from Singapore, who studies wildlife and human-wildlife networks and their implications for a wide variety of disease and conservation problems. Her website is [here](https://[Website](https://devansong.weebly.com/).
 <br>
 <br>
-<br>
-<br>
 
-2019 -- **Ginny Katz**, PhD Geography, Oregon State University. <br> 
+2019 -- **Ginny Katz**, PhD student in Geography, Oregon State University. <br> 
 
-2019 -- **Nico Gomez**, MS Marine Resource Management Program, Oregon State University. <br>
+2019 -- **Nico Gomez**, MS student in the Marine Resource Management Program, Oregon State University. <br>
 
-2018 -- **Keiko Nomura**, MS Marine Resource Management Program, Oregon State University. <br>
+2018 -- **Keiko Nomura**, MS student in the Marine Resource Management Program, Oregon State University. <br>
 
-2017 -- **Steven Johnson**, PhD College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
+2017 -- **Steven Johnson**, PhD student in the College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 
 <img style="float: right" src="Ciera_photo.jpeg" width="18%" />
-2017 -- **Ciera Villegas**, PhD Environmental Sciences Graduate Program, Oregon State University. <br>
+2017 -- **Ciera Villegas**, PhD student in the Environmental Sciences Graduate Program, Oregon State University. <br>
 <br>
 <br>
 <br>
