@@ -40,9 +40,11 @@ Assistant Professor, Oregon State University, OR, USA, 2017-present<br>
 Climate change impacts on the spatial distribution of marine biodiversity and ecosystem functions.
 <br>
 <br>
+<br>
 
 <img style="float: right" src="John_photo.png" width="18%" />
 2018 -- **A. John Woodill**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University. Resource economics, data science, climate adaptation, harmful algal blooms, predicing and measuring the impacts of illegal fishing.
+<br>
 <br>
 <br>
 
