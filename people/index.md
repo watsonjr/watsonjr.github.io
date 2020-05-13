@@ -42,7 +42,8 @@ Climate change impacts on the spatial distribution of marine biodiversity and ec
 <br>
 
 <img style="float: right" src="John_photo.png" width="18%" />
-2018 -- **John Woodill**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
+2018 -- **A. John Woodill**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University. Resource economics, data science, climate adaptation, harmful algal blooms, predicing and measuring the impacts of illegal fishing.
+<br>
 <br>
 
 ## Students
@@ -51,6 +52,7 @@ Climate change impacts on the spatial distribution of marine biodiversity and ec
 <img style="float: right" src="Anne_photo.jpg" width="18%" />
 2019 -- **Anne Devan-Song**, PhD student in Integrative Biology, Oregon State University.
 Anne is a field biologist from Singapore, who studies wildlife and human-wildlife networks and their implications for a wide variety of disease and conservation problems. Her website is [here](https://devansong.weebly.com/).
+<br>
 <br>
 <br>
 
