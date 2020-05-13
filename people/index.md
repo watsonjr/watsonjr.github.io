@@ -43,7 +43,8 @@ Climate change impacts on the spatial distribution of marine biodiversity and ec
 <br>
 
 <img style="float: right" src="John_photo.png" width="18%" />
-2018 -- **A. John Woodill**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University. Resource economics, data science, climate adaptation, harmful algal blooms, predicing and measuring the impacts of illegal fishing.
+2018 -- **A. John Woodill**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
+Resource economics, data science, climate adaptation, harmful algal blooms, predicing and measuring the impacts of illegal fishing.
 <br>
 <br>
 <br>
@@ -52,7 +53,7 @@ Climate change impacts on the spatial distribution of marine biodiversity and ec
 2019 -- **Mihir Joshi**, Middle school student, Howard Street Charter School, Salem. <br>
 
 <img style="float: right" src="Anne_photo.jpg" width="18%" />
-2019 -- **Anne Devan-Song**, PhD student in Integrative Biology, Oregon State University.
+2019 -- **Anne Devan-Song**, PhD student in Integrative Biology, Oregon State University.<br>
 Anne is a field biologist from Singapore, who studies wildlife and human-wildlife networks and their implications for a wide variety of disease and conservation problems. Her website is [here](https://devansong.weebly.com/).
 <br>
 <br>
@@ -61,7 +62,7 @@ Anne is a field biologist from Singapore, who studies wildlife and human-wildlif
 2019 -- **Ginny Katz**, PhD student in Geography, Oregon State University. <br> 
 
 <img style="float: right" src="Nico_photo.png" width="18%" />
-2019 -- **Nicolás Gómez-Andújar**, MS student in the Marine Resource Management Program, Oregon State University.
+2019 -- **Nicolás Gómez-Andújar**, MS student in the Marine Resource Management Program, Oregon State University.<br>
 Nico researches the adaptive governance of coastal socio-ecological systems. His current work focuses on cooperative and non-cooperative behaviors of small-scale fishers in Puerto Rico and the role of social-networks and informal arrangements that fishers have in order to cope with ecosystem change and social instability. <br>
 
 2018 -- **Keiko Nomura**, MS student in the Marine Resource Management Program, Oregon State University. <br>
