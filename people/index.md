@@ -41,7 +41,9 @@ Climate change impacts on the spatial distribution of marine biodiversity and ec
 <br>
 <br>
 
+<img style="float: right" src="John_photo.png" width="18%" />
 2018 -- **John Woodill**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
+<br>
 
 ## Students
 2019 -- **Mihir Joshi**, Middle school student, Howard Street Charter School, Salem. <br>
