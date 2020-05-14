@@ -57,7 +57,19 @@ Anne is a field biologist from Singapore, who studies wildlife and human-wildlif
 <br>
 <br>
 
+<img style="float: right" src="Ginny_photo.jpg" width="18%" />
+2019 -- **Ginny Katz**, PhD student in Geography, Oregon State University. <br> 
+Ginny focuses on tools that help communities and systems adapt to disasters. Her research explores problems in the communication nexus between communities, institutions, and current technology. She comes to the lab with a BS Public Health, Epidemiology & Disease Control and Master of Global Health with expertise in disaster management. Ginny founded local tech startup HazAdapt, INC. that builds Inclusive Technology for community emergency communication. More recently, she started serving as Chief Operations Officer for the PNW nonprofit, COVID Response Collective. 
+<br>
+<br>
+<br>
+
+<img style="float: right" src="Steven_photo.jpeg" width="18%" />
 2017 -- **Steven Johnson**, PhD student in the College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
+Steven is from the island of Saipan and has Pacific Island and Jamaican heritage. His research is rooted in his deep connection for the ocean and the people who depend on it's health - each and every one of us on this planet. He uses quantitative approaches to understand marine socio-environmental system dynamics
+<br>
+<br>
+<br>
 
 <img style="float: right" src="Ciera_photo.jpeg" width="18%" />
 2017 -- **Ciera Villegas**, PhD student in the Environmental Sciences Graduate Program, Oregon State University. <br>
@@ -65,12 +77,6 @@ Anne is a field biologist from Singapore, who studies wildlife and human-wildlif
 <br>
 <br>
 
-<img style="float: right" src="Ginny_photo.jpg" width="18%" />
-2019 -- **Ginny Katz**, PhD student in Geography, Oregon State University. <br> 
-Ginny studies how technology enables optimal responses to hazards. Ginny is an entrepreneur and runs her a tech startup called HazAdapt.
-<br>
-<br>
-<br>
 
 <img style="float: right" src="Nico_photo.png" width="18%" />
 2019 -- **Nicolás Gómez-Andújar**, MS student in the Marine Resource Management Program, Oregon State University.<br>
