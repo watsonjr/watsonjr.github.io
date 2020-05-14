@@ -64,7 +64,7 @@ Ginny focuses on tools that help communities and systems adapt to disasters. Her
 <br>
 <br>
 
-<img style="float: right" src="Steven_photo.jpeg" width="18%" />
+<img style="float: right" src="Steven_photo.JPG" width="18%" />
 2017 -- **Steven Johnson**, PhD student in the College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 Steven is from the island of Saipan and has Pacific Island and Jamaican heritage. His research is rooted in his deep connection for the ocean and the people who depend on it's health - each and every one of us on this planet. He uses quantitative approaches to understand marine socio-environmental system dynamics
 <br>
