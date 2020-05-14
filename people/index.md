@@ -50,22 +50,12 @@ John has expertise in resource economics, data science, climate adaptation, harm
 <br>
 
 ## Students
-2019 -- **Mihir Joshi**, Middle school student, Howard Street Charter School, Salem. <br>
-
 <img style="float: right" src="Anne_photo.jpg" width="18%" />
 2019 -- **Anne Devan-Song**, PhD student in Integrative Biology, Oregon State University.<br>
 Anne is a field biologist from Singapore, who studies wildlife and human-wildlife networks and their implications for a wide variety of disease and conservation problems. Her website is [here](https://devansong.weebly.com/).
 <br>
 <br>
 <br>
-
-2019 -- **Ginny Katz**, PhD student in Geography, Oregon State University. <br> 
-
-<img style="float: right" src="Nico_photo.png" width="18%" />
-2019 -- **Nicolás Gómez-Andújar**, MS student in the Marine Resource Management Program, Oregon State University.<br>
-Nico researches the adaptive governance of coastal socio-ecological systems. He focuses on cooperative and non-cooperative behaviors of small-scale fishers in Puerto Rico and the role of social-networks and informal arrangements for coping with ecosystem change and social instability. <br>
-
-2018 -- **Keiko Nomura**, MS student in the Marine Resource Management Program, Oregon State University. <br>
 
 2017 -- **Steven Johnson**, PhD student in the College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 
@@ -74,6 +64,22 @@ Nico researches the adaptive governance of coastal socio-ecological systems. He 
 <br>
 <br>
 <br>
+
+<img style="float: right" src="Ginny_photo.jpg" width="18%" />
+2019 -- **Ginny Katz**, PhD student in Geography, Oregon State University. <br> 
+Ginny studies how technology enables optimal responses to hazards. Ginny is an entrepreneur and runs her a tech startup called HazAdapt.
+<br>
+<br>
+<br>
+
+<img style="float: right" src="Nico_photo.png" width="18%" />
+2019 -- **Nicolás Gómez-Andújar**, MS student in the Marine Resource Management Program, Oregon State University.<br>
+Nico researches the adaptive governance of coastal socio-ecological systems. He focuses on cooperative and non-cooperative behaviors of small-scale fishers in Puerto Rico and the role of social-networks and informal arrangements for coping with ecosystem change and social instability. <br>
+
+2018 -- **Keiko Nomura**, MS student in the Marine Resource Management Program, Oregon State University.<br>
+
+2019 -- **Mihir Joshi**, Middle school student, Howard Street Charter School, Salem. <br>
+
 
 ## Former Lab Members
 __Mathew Titus__, 2017-2020, Post-doc, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
