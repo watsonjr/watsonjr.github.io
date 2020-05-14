@@ -82,7 +82,9 @@ Steven is from the island of Saipan and has Pacific Island and Jamaican heritage
 2019 -- **Nicolás Gómez-Andújar**, MS student in the Marine Resource Management Program, Oregon State University.<br>
 Nico researches the adaptive governance of coastal socio-ecological systems. He focuses on cooperative and non-cooperative behaviors of small-scale fishers in Puerto Rico and the role of social-networks and informal arrangements for coping with ecosystem change and social instability. <br>
 
+<img style="float: right" src="Keiko_photo.JPG" width="18%" />
 2018 -- **Keiko Nomura**, MS student in the Marine Resource Management Program, Oregon State University.<br>
+Keiko researches the adaptive capacity of marine social-ecological systems. Her current project uses network analysis to quantify the adaptive capacity of small-scale fishermen in Baja, Mexico.
 
 2019 -- **Mihir Joshi**, Middle school student, Howard Street Charter School, Salem. <br>
 
