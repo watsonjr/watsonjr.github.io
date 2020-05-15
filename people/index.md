@@ -83,8 +83,9 @@ Keiko researches the adaptive capacity of marine social-ecological systems. Her 
 <br>
 <br>
 
+<img style="float: right" src="Mihir_photo.jpg" width="18%" />
 2019 -- **Mihir Joshi**, Middle school student, Howard Street Charter School, Salem. <br>
-
+Mihir is interested in the impact of climate change on shifting species range distributions. Specifically, Mihir focuses on marine organisms and the role that marine protected areas will play in buffering the impacts of climate change.
 
 ## Former Lab Members
 __Mathew Titus__, 2017-2020, Post-doc, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
