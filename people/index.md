@@ -68,7 +68,7 @@ Steven is from the island of Saipan and has Pacific Island and Jamaican heritage
 
 <img style="float: right" src="Ciera_photo.jpeg" width="18%" />
 2017 -- **Ciera Villegas**, PhD student in the Environmental Sciences Graduate Program, Oregon State University. <br>
-<br>
+Ciera is a McNair Scholar and a native San Diegan with Mexican, Japanese, Spanish, British and Irish ancestry. Her research primarily focuses on contemporary conflict and cooperation over fisheries resources in Puerto Rico. She utilizes a mixed-methods approach incorporating the analyses of news reports and semi-structured interviews to understand the complex social-ecological system dynamics over fisheries resources in the context of drivers
 <br>
 <br>
 
