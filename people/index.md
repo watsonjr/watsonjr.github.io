@@ -40,10 +40,12 @@ Assistant Professor, Oregon State University, OR, USA, 2017-present<br>
 Ernesto studyies climate change impacts on the spatial distribution of marine biodiversity and ecosystem functions. Marine population connectivity. Marine micro-plastics.
 <br>
 <br>
+<br>
 
 <img style="float: right" src="John_photo.png" width="20%" />
 2020 -- **A. John Woodill**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 John has expertise in resource economics, data science, climate adaptation, harmful algal blooms, predicting and measuring the impacts of illegal fishing.
+<br>
 <br>
 <br>
 
@@ -53,10 +55,12 @@ John has expertise in resource economics, data science, climate adaptation, harm
 Anne is a field biologist from Singapore, who studies wildlife and human-wildlife networks and their implications for a wide variety of disease and conservation problems. Her website is [here](https://devansong.weebly.com/).
 <br>
 <br>
+<br>
 
 <img style="float: right" src="Ginny_photo.jpg" width="20%" />
 2019 -- **Ginny Katz**, PhD student in Geography, Oregon State University. <br> 
 Ginny focuses on tools that help communities and systems adapt to disasters. Her research explores problems in the communication nexus between communities, institutions, and current technology. She comes to the lab with a BS Public Health, Epidemiology & Disease Control and Master of Global Health with expertise in disaster management. Ginny founded local tech startup HazAdapt, INC. that builds Inclusive Technology for community emergency communication. More recently, she started serving as Chief Operations Officer for the PNW nonprofit, COVID Response Collective. 
+<br>
 <br>
 <br>
 
@@ -65,21 +69,25 @@ Ginny focuses on tools that help communities and systems adapt to disasters. Her
 Steven is from the island of Saipan and has Pacific Island and Jamaican heritage. His research is rooted in his deep connection for the ocean and the people who depend on it's health - each and every one of us on this planet. He uses quantitative approaches to understand marine socio-environmental system dynamics
 <br>
 <br>
+<br>
 
 <img style="float: right" src="Ciera_photo.jpeg" width="20%" />
 2017 -- **Ciera Villegas**, PhD student in the Environmental Sciences Graduate Program, Oregon State University. <br>
 Ciera is a McNair Scholar and a native San Diegan with Mexican, Japanese, Spanish, British and Irish ancestry. Her research primarily focuses on contemporary conflict and cooperation over fisheries resources in Puerto Rico. She utilizes a mixed-methods approach incorporating the analyses of news reports and semi-structured interviews to understand the complex social-ecological system dynamics over fisheries resources in the context of drivers
 <br>
 <br>
+<br>
 
 <img style="float: right" src="Nico_photo.png" width="20%" />
 2019 -- **Nicolás Gómez-Andújar**, MS student in the Marine Resource Management Program, Oregon State University.<br>
+Nico researches the adaptive governance of coastal socio-ecological systems. He focuses on cooperative and non-cooperative behaviors of small-scale fishers in Puerto Rico and the role of social-networks and informal arrangements for coping with ecosystem change and social instability. <br>
 Nico researches the adaptive governance of coastal socio-ecological systems. He focuses on cooperative and non-cooperative behaviors of small-scale fishers in Puerto Rico and the role of social-networks and informal arrangements for coping with ecosystem change and social instability. <br>
 <br>
 
 <img style="float: right" src="Keiko_photo.JPG" width="20%" />
 2020 -- **Keiko Nomura**, MS student in the Marine Resource Management Program, Oregon State University.<br>
 Keiko researches the adaptive capacity of marine social-ecological systems. Her current project uses network analysis to quantify the adaptive capacity of small-scale fishermen in Baja, Mexico.
+<br>
 <br>
 <br>
 
