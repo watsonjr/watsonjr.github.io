@@ -49,7 +49,7 @@ John has expertise in resource economics, data science, climate adaptation, harm
 <br>
 <br>
 
-## Students
+## PhD Students
 <img style="float: right" src="Anne_photo.jpg" width="20%" />
 2019 -- **Anne Devan-Song**, PhD student in Integrative Biology, Oregon State University.<br>
 Anne is a field biologist from Singapore, who studies wildlife and human-wildlife networks and their implications for a wide variety of disease and conservation problems. Her website is [here](https://devansong.weebly.com/).
@@ -78,6 +78,13 @@ Ciera is a McNair Scholar and a native San Diegan with Mexican, Japanese, Spanis
 <br>
 <br>
 
+## Masters Students
+<img style="float: right" src="Helena_photo.png" width="20%" />
+2019 -- **Helena Edelson**, MS student in the Environmental Sciences Graduate Program, Oregon State University.<br>
+Helena is researching sustainable, scalable solutions for conservation of snow leopards and other endangered species, involving climate change, human-wildlife coexistence, poaching and illegal trade. She combines Complex Adaptive Systems, game theory, aerial robotics, drones and satellite imagery to form richer data sets, increase accuracy and understanding, and overcome resource limitations on the ground. Helena has given international conference talks and keynotes on technology and complex adaptive systems. She comes to the lab with years of expertise in engineering massive scalable data for AI, machine learning and real-time analytics, from her long career as a principal software engineer in Silicon Valley. More about her work and research on her [website.](http://complex-human.com/)<br>
+<br>
+<br>
+
 <img style="float: right" src="Nico_photo.png" width="20%" />
 2019 -- **Nicolás Gómez-Andújar**, MS student in the Marine Resource Management Program, Oregon State University.<br>
 Nico researches the adaptive governance of coastal socio-ecological systems. He focuses on cooperative and non-cooperative behaviors of small-scale fishers in Puerto Rico and the role of social-networks and informal arrangements for coping with ecosystem change and social instability. <br>
@@ -91,6 +98,7 @@ Keiko researches the adaptive capacity of marine social-ecological systems. Her 
 <br>
 <br>
 
+## Junior Researchers
 <img style="float: right" src="Mihir_photo.jpg" width="20%" />
 2019 -- **Mihir Joshi**, Middle school student, Howard Street Charter School, Salem. <br>
 Mihir is interested in the impact of climate change on shifting species range distributions. Specifically, Mihir focuses on marine organisms and the role that marine protected areas will play in buffering the impacts of climate change.
