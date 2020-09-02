@@ -36,6 +36,13 @@ Assistant Professor, Oregon State University, OR, USA, 2017-present<br>
 <!--2020 -- **George Hagstrom**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University and Princeton University.<br>-->
 
 <img style="float: right" src="Ernesto_photo.jpg" width="20%" />
+2019 -- **George Hagstrom**, College of Earth, Ocean and Atmospheric Sciences, Oregon   State University & Princeton University.<br>
+George's research is broadly focused on the application of theoretical and computational methods, some dervied from theoretical physics, to complex systems. So far he has studied problems in marine ecology, biogeochemistry, and collective behavior.
+<br>
+<br>
+<br>
+
+<img style="float: right" src="Ernesto_photo.jpg" width="20%" />
 2019 -- **Ernesto Villarino**, AZTI Tecnalia, Spain.<br>
 Ernesto studyies climate change impacts on the spatial distribution of marine biodiversity and ecosystem functions. Marine population connectivity. Marine micro-plastics.
 <br>
