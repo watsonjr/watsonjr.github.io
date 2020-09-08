@@ -95,7 +95,6 @@ Helena is researching sustainable, scalable solutions for conservation of snow l
 <img style="float: right" src="Nico_photo.png" width="20%" />
 2019 -- **Nicolás Gómez-Andújar**, MS student in the Marine Resource Management Program, Oregon State University.<br>
 Nico researches the adaptive governance of coastal socio-ecological systems. He focuses on cooperative and non-cooperative behaviors of small-scale fishers in Puerto Rico and the role of social-networks and informal arrangements for coping with ecosystem change and social instability. <br>
-Nico researches the adaptive governance of coastal socio-ecological systems. He focuses on cooperative and non-cooperative behaviors of small-scale fishers in Puerto Rico and the role of social-networks and informal arrangements for coping with ecosystem change and social instability. <br>
 <br>
 
 <img style="float: right" src="Keiko_photo.JPG" width="20%" />
