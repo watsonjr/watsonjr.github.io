@@ -13,7 +13,7 @@ My goal as a mentor is to provide young scientists with the environment in which
 Contact me at jrwatson@coas.oregonstate.edu before applying to Oregon State University, so that we can discuss your application. In your email, please include a description of your interests and how they fit with our work along with a CV.
 
 ### Graduate students
-I aim to accept one new Ph.D student every other year. If you are interested in doing a Ph.D with me at Oregon State University, first go [here](http://ceoas.oregonstate.edu/future/apply/oeas/). Then get in touch and we can discuss opportunities. If you are an international student, I am happy to co-supervise.
+I aim to accept one new Ph.D student every other year. If you are interested in doing a Ph.D with me at Oregon State University, first go [here](https://ceoas.oregonstate.edu/future-students). Then get in touch and we can discuss opportunities. If you are an international student, I am happy to co-supervise.
 
 ### Postdoctoral researchers
 I am actively looking for post-doctoral researchers to work with. At OSU, a post-doc is a highly independent researcher, so if in your research you see any benefit in working with me, get in touch. There are many avenues for possible funds.
