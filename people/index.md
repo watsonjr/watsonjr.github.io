@@ -112,6 +112,13 @@ Keiko researches the adaptive capacity of marine social-ecological systems. Her 
 <br>
 
 ## Junior Researchers
+<img style="float: right" src="Srikar_photo.jpeg" width="20%" />
+2020 -- **Srikar Duttasai Valluri**, BS student in Computer Science, Oregon  State University.<br>
+Srikar is currently pursuing his Computer Science degree, with subspecialties in Robotics, AI, and Biochemistry. His primary research interests lie in applying both raw and computational sciences to analyze problems from multiple angles. He is currently taking up the project of analyzing adaptive defense mechanisms, like the immune system, to solve problems that might occur in complex adaptive systems.
+<br>
+<br>
+<br>
+
 <img style="float: right" src="Mihir_photo.jpg" width="20%" />
 2019 -- **Mihir Joshi**, Middle school student, Howard Street Charter School, Salem. <br>
 Mihir is interested in the impact of climate change on shifting species range distributions. Specifically, Mihir focuses on marine organisms and the role that marine protected areas will play in buffering the impacts of climate change.
