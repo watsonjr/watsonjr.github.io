@@ -36,7 +36,7 @@ Assistant Professor, Oregon State University, OR, USA, 2017-present<br>
 <!--2020 -- **George Hagstrom**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University and Princeton University.<br>-->
 
 <img style="float: right" src="George_photo.jpg" width="20%" />
-2019 -- **George Hagstrom**, College of Earth, Ocean and Atmospheric Sciences, Oregon   State University & Princeton University.<br>
+2020 -- **George Hagstrom**, College of Earth, Ocean and Atmospheric Sciences, Oregon   State University & Princeton University.<br>
 George's research is broadly focused on the application of theoretical and computational methods, some dervied from theoretical physics, to complex systems. So far he has studied problems in marine ecology, biogeochemistry, and collective behavior.
 <br>
 <br>
@@ -50,15 +50,22 @@ Ernesto studyies climate change impacts on the spatial distribution of marine bi
 <br>
 
 <img style="float: right" src="John_photo.png" width="20%" />
-2020 -- **A. John Woodill**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
+2018 -- **A. John Woodill**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 John has expertise in resource economics, data science, climate adaptation, harmful algal blooms, predicting and measuring the impacts of illegal fishing.
 <br>
 <br>
 <br>
 
 ## PhD Students
+<img style="float: right" src="Keiko_photo.JPG" width="20%" />
+2020 -- **Keiko Nomura**, MS student in the Marine Resource Management Program, Oregon State University.<br>
+Keiko researches the adaptive capacity of marine social-ecological systems. Her current project uses network analysis to quantify the adaptive capacity of small-scale fishermen in Baja, Mexico.
+<br>
+<br>
+<br>
+
 <img style="float: right" src="Kira_photo.jpg" width="20%" />
-2019 -- **Kira Minehart**, PhD student in Environmental Science, Oregon State           University.<br>
+2020 -- **Kira Minehart**, PhD student in Environmental Science, Oregon State           University.<br>
 Kira strives to apply her background in quantitative analysis to promote the preservation of wild landscapes. Her research uses GIS, remote sensing, and modeling to detect and interpret climate change impacts on terrestrial protected areas.
 <br>
 <br>
@@ -94,7 +101,7 @@ Ciera is a McNair Scholar and a native San Diegan with Mexican, Japanese, Spanis
 
 ## Masters Students
 <img style="float: right" src="Helena_photo.png" width="20%" />
-2019 -- **Helena Edelson**, MS student in the Environmental Sciences Graduate Program, Oregon State University.<br>
+2020 -- **Helena Edelson**, MS student in the Environmental Sciences Graduate Program, Oregon State University.<br>
 Helena is researching sustainable, scalable solutions for conservation of snow leopards and other endangered species, involving climate change, human-wildlife coexistence, poaching and illegal trade. She combines Complex Adaptive Systems, game theory, aerial robotics, drones and satellite imagery to form richer data sets, increase accuracy and understanding, and overcome resource limitations on the ground. Helena has given international conference talks and keynotes on technology and complex adaptive systems. She comes to the lab with years of expertise in engineering massive scalable data for AI, machine learning and real-time analytics, from her long career as a principal software engineer in Silicon Valley. More about her work and research on her [website.](http://complex-human.com/)<br>
 <br>
 <br>
@@ -102,13 +109,6 @@ Helena is researching sustainable, scalable solutions for conservation of snow l
 <img style="float: right" src="Nico_photo.png" width="20%" />
 2019 -- **Nicolás Gómez-Andújar**, MS student in the Marine Resource Management Program, Oregon State University.<br>
 Nico researches the adaptive governance of coastal socio-ecological systems. He focuses on cooperative and non-cooperative behaviors of small-scale fishers in Puerto Rico and the role of social-networks and informal arrangements for coping with ecosystem change and social instability. <br>
-<br>
-
-<img style="float: right" src="Keiko_photo.JPG" width="20%" />
-2020 -- **Keiko Nomura**, MS student in the Marine Resource Management Program, Oregon State University.<br>
-Keiko researches the adaptive capacity of marine social-ecological systems. Her current project uses network analysis to quantify the adaptive capacity of small-scale fishermen in Baja, Mexico.
-<br>
-<br>
 <br>
 
 ## Junior Researchers
