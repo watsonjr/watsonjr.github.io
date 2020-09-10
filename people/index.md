@@ -57,6 +57,13 @@ John has expertise in resource economics, data science, climate adaptation, harm
 <br>
 
 ## PhD Students
+<img style="float: right" src="Kira_photo.jpg" width="20%" />
+2019 -- **Kira Minehart**, PhD student in Environmental Science, Oregon State           University.<br>
+Kira strives to apply her background in quantitative analysis to promote the preservation of wild landscapes. Her research uses GIS, remote sensing, and modeling to detect and interpret climate change impacts on terrestrial protected areas.
+<br>
+<br>
+<br>
+
 <img style="float: right" src="Anne_photo.jpg" width="20%" />
 2019 -- **Anne Devan-Song**, PhD student in Integrative Biology, Oregon State University.<br>
 Anne is a field biologist from Singapore, who studies wildlife and human-wildlife networks and their implications for a wide variety of disease and conservation problems. Her website is [here](https://devansong.weebly.com/).
