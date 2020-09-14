@@ -1,4 +1,3 @@
----
 layout: page
 title: What We Do
 excerpt: "What We Do"
@@ -8,31 +7,23 @@ image:
   credit: Jodi Elliott
 ---
 
-We are involved in a number of research projects spanning complex systems science, marine ecology, resource economics, and sustainability science. Below you will find an abbrieviated list of projects we are presently working on:
+## What We Do
+We are lucky to have funding from a number of sources to facilitate research on a wide range of topics. Projects have been funded by NSF, NOAA, NASA, DARPA for example. The main general topics that our research focuses on include:
 
-### Predicting Illegal Activities at Sea
-Funded by **NASA** we are developing new data analytic methods for predicting illegal activities (i.e. really bad stuff like narcotics and slave trafficking) based on anomalous cross-scale spatial behaviors of maritime vessels. The project uses NASA nightlight and AIS data in conjunction with new mathematical methods based on collective behavior in complex systems. 
+## Climate Change, Risk and Survival
+The risks associated with climate change are many, and we study the various ways in which changes in the biophysical characteristic of our planet (i.e. changes in temperature, precipitation, oceanographic conditions, extreme weather events…etc.) as well as on socio-environmental aspects (e.g. human migration, species range distributions, food-production) will impact human wellbeing. 
 
-### Cross-scale Properties of Complex Adaptive Systems
-Funded by **DARPA** we are developing new multi-scale data analytic methods, based on manifold learning, for characterizing, interpolating and predicting dynamics in complex adaptive systems. In particular we are focused on predicting large (catestrophic) changes in ecosystems, financial markets, housing markets, power-grids and systems exhibiting collective behavior (e.g. fish schools). 
+## Complex Adaptive Systems
+We develop novel theory, mathematical models and agent-based simulations for analyzing complex adaptive systems. We also develop new multi-scale data analytic methods, for characterizing and predicting dynamics in complex adaptive systems, in particular for quantifying the risk of large (catastrophic) changes in ecosystems, financial markets, housing markets, power-grids and systems exhibiting collective behavior.
 
-### Complex and Dynamic Socio-environmental Systems
-<!---
-<img style="float: right" src="abm.png" hspace="5" width="35%" />
--->
-We are develop novel theory, mathematical models and agent-based simulations for analyzing socio-environmental systems. Some of the topics we are working on include changing spatial behaviors of fishermen, human community vulnerability and adaptive capacity in the face of natural hazards, the innovation and diffusion of conservation norms, and predicting human mobility as people respond to climate change. 
+## Coexistence in Social-ecological Systems
+We aim to inform basic understanding of how people can live with dignity and community without degrading the ecological integrity of the biosphere. 
+Some of the topics we work on include spatial behaviors of natural resource users, illegal resource extraction, the role of protected areas, human community vulnerability and adaptive capacity in the face of climate change and variability, and the innovation and diffusion of conservation norms. 
 
-### Risk Management
-We are interested in thinking outside the box in terms of what tools can be used for developing sustainable marine social-ecological systems. In particular we are designing new financial tools that incentivize best management practices by both fishers and aquaculturalists. These include new insurance policies and forwards/futures contracts, and the use of new distributed technologies like Blockchain.
+## Oceanography
+We study marine ecosystems using mathematical models and computer simulations. We have a focus on size-structure marine food-web modeling and marine metapopulation connectivity and its impact on coastal ecosystem resilience. We have studied the California Current marine ecosystem as well as the Coral Triangle. We also work on connectivity at global scales. Here, we study the routes and timescales over which planktonic communities are connected. 
 
-<!---
-### Global Marine Ecosystem Modeling
-Working with Earth-System Modelers at the [Geophysical Fluids Dynamics  Lab](http://www.gfdl.noaa.gov/), specifically [Dr.Charles Stock](http://www.gfdl.noaa.gov/charles-stock-homepage), we develop and run global marine ecosystem models that resolve organisms bigger than zooplankton (not obvious, but this is rare). We use simple size-based / allometric relationships as the backbone of our ecosytem models. The goal is to use these global models to estimate how pelagic marine ecosystem might respond to future climate change and different fishing scenarios.
--->
 
-###  Spatial Marine Ecology
-<!---
-<img style="float: right" src="scb.png" width="45%" />
--->
-We study marine ecosystems using mathematical models and computer simulations. We focus on marine metapopulation connectivity and its impact on coastal ecosystem resilience, as well as food-web size structure. We have studied the California Current marine ecosystem as well as the Coral Triangle. We also work on connectivity at global scales. Here, we study the routes and timescales overwhich planktonic communities are connected. We are also interested in predicting Harmful Algal Blooms.
+
+
 
