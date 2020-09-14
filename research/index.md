@@ -1,3 +1,4 @@
+---
 layout: page
 title: What We Do
 excerpt: "What We Do"
