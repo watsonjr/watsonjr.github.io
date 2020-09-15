@@ -9,7 +9,6 @@ image:
 ---
 
 
-# What We Do
 We are lucky to have funding from a number of sources to facilitate research on a wide range of topics. Projects have been funded by NSF, NOAA, NASA, DARPA for example. The main general topics that our research focuses on include:
 
 ## Climate Change, Risk and Survival
