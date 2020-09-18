@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Complex Adaptive Solutions
+title: SEA LAB
 locale: en_US
-description: The Watson Lab
+description: The Socio-Environmental Analysis (SEA) Lab
 logo: site_logo_SEA.png
 search: true
 url:  http://watsonjr.github.io
@@ -47,7 +47,7 @@ titlecase: true
 owner:
   name: James Watson
   avatar: bio-photo.jpg
-  email: watsonjr@gmail.com
+  email: james.watson@oregonstate.edu
   disqus-shortname:
   twitter: #username
   facebook: #username
