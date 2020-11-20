@@ -36,6 +36,13 @@ Assistant Professor, Oregon State University, OR, USA, 2017-present<br>
 <!--2020 -- **George Hagstrom**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University and Princeton University.<br>-->
 
 <img style="float: right" src="George_photo.jpg" width="20%" />
+2020 -- **Shannon Hennessey**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
+Shannon is an empirical and quantitatively-trained marine ecologist, broadly interested in the impacts of humans and environmental stressors on fish and invertebrate populations, species interactions, and community structure.
+<br>
+<br>
+<br>
+
+<img style="float: right" src="George_photo.jpg" width="20%" />
 2020 -- **George Hagstrom**, College of Earth, Ocean and Atmospheric Sciences, Oregon   State University & Princeton University.<br>
 George's research is broadly focused on the application of theoretical and computational methods, some dervied from theoretical physics, to complex systems. So far he has studied problems in marine ecology, biogeochemistry, and collective behavior.
 <br>
