@@ -7,6 +7,10 @@ image:
   feature: IMG_5420.jpg
   credit: Jodi Elliott
 ---
+To see most of our latest publications head here:
+[Google Scholar](https://scholar.google.se/citations?user=LHQ0BPkAAAAJ&hl=en)<br>
+
+<!--
 [broadest field for categorization] <br/>
 +co-lead author
 
@@ -110,5 +114,5 @@ image:
 
 ### 2009
 [1] Mitarai S, Siegel D, **Watson JR**, et al. Quantifying connectivity in the coastal ocean with application to the Southern California Bight. Journal of Geophysical Research, 2009, 114, C10026, doi:10.1029/2008JC005166. [Oceanography]
-
+-->
 
