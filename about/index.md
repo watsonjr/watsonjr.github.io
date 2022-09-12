@@ -4,7 +4,7 @@ title: Socio-Environmental Analysis (SEA) Lab
 excerpt: "We study the dynamics of complex and adaptive social-ecological systems to improve the well-being of people around the  world"
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
-  feature: Lab_2020.png
+  feature: DSC_3089.png
   credit: SEA Lab 2020
 ---
 
