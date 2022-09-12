@@ -9,11 +9,11 @@ image:
 
 
 ## James R. Watson
-<img style="float: right" src="Zoe_photo.jpg" width="43%" />
+<img style="float: right" src="James-26.jpg" width="43%" />
 __Associate Professor__<br>
 College of Earth, Ocean and Atmospheric Sciences<br>
 Oregon State University, USA<br>
-_email:_ jrwatson@coas.oregonstate.edu<br>
+_email:_ james.watson@oregonstate.edu<br>
 [Google Scholar](https://scholar.google.se/citations?user=LHQ0BPkAAAAJ&hl=en)<br>
 
 __CEO and Co-Founder__<br>
