@@ -68,8 +68,6 @@ __Alison Iles__, 2019, Post-doc, College of Earth, Ocean and Atmospheric Science
 __Zach Gelbaum__, 2017-2019, Post-doc, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 __Emily Klein__; 2014-2016, Post-doc, Stockholm Resilience Centre / Princeton University exchange program<br>
 __Matthieu Barbier__; 2014-2016, Post-doc, Stockholm Resilience Centre / Princeton University exchange program<br>
-__Andrew Tilman__; 2013-2016, PhD student, Stockholm Resilience Centre / Princeton University exchange program<br>
-__Lisa McManus__; 2012-2016, PhD student, Stockholm Resilience Centre / Princeton University exchange program<br>
 __Laura Elsler__; 2014, MS student, Sustainable Development-Environmental Sciences, University of Graz<br>
 __Roweena Patel__; 2013, MS student, Sustainability Science, Stockholm Resilience Centre<br>
 __Angela Zhou__; 2013, BS student, Stockholm Resilience Centre research intern from Princeton University<br>
