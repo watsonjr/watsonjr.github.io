@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Pacific Institute for Complex Systems
-excerpt: "pics"
+title: PICS
+excerpt: "Pacific Institute for Complex Systems"
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
   feature: IMG_5285.jpg
 ---
-
 
 ## James R. Watson
 <img style="float: right" src="James-26.jpg" width="43%" />
