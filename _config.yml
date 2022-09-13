@@ -6,6 +6,7 @@ description: The Socio-Environmental Analysis (SEA) Lab
 logo: site_logo_SEA.png
 search: true
 url:  http://watsonjr.github.io
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
 #url: http://localhost:4000
 
 # Jekyll configuration
