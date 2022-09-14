@@ -46,7 +46,7 @@ Keiko researches (outer) space, sports and the sea through the lens of Complex A
 <br>
 <br>
 
-<img style="float: right" src="val.jpg" width="20%" />
+<img style="float: right" src="Val.jpg" width="20%" />
 2020 -- **Val Chang**, PhD student in Geography, Oregon State University.<br>
 Val's research combines the analysis of satellite remotely sensed imagery, hydrology, soundscapes, and immersive art to create alternative narratives of climate change.
 <br>
