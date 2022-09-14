@@ -40,8 +40,15 @@ John has expertise in resource economics, data science, climate adaptation, harm
 
 ## PhD Students
 <img style="float: right" src="Keiko_photo.JPG" width="20%" />
-2020 -- **Keiko Nomura**, MS student in the Marine Resource Management Program, Oregon State University.<br>
-Keiko researches the adaptive capacity of marine social-ecological systems. Her current project uses network analysis to quantify the adaptive capacity of small-scale fishermen in Baja, Mexico.
+2020 -- **Keiko Nomura**, PhD student in Geography, Oregon State University.<br>
+Keiko researches (outer) space, sports and the sea through the lens of Complex Adaptive Systems theory.
+<br>
+<br>
+<br>
+
+<img style="float: right" src="val.jpg" width="20%" />
+2020 -- **Val Chang**, PhD student in Geography, Oregon State University.<br>
+Val's research combines the analysis of satellite remotely sensed imagery, hydrology, soundscapes, and immersive art to create alternative narratives of climate change.
 <br>
 <br>
 <br>
@@ -49,7 +56,7 @@ Keiko researches the adaptive capacity of marine social-ecological systems. Her 
 
 ## Junior Researchers
 <img style="float: right" src="Mihir_photo.jpg" width="20%" />
-2019 -- **Mihir Joshi**, Middle school student, Howard Street Charter School, Salem. <br>
+2019 -- **Mihir Joshi**, High school student, Salem. <br>
 Mihir is interested in the impact of climate change on shifting species range distributions. Specifically, Mihir focuses on marine organisms and the role that marine protected areas will play in buffering the impacts of climate change.
 
 
