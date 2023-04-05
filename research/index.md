@@ -9,7 +9,7 @@ image:
 ---
 
 ## We Build Community
-Come join our discussions about complex systems at the <a href="https://picsosu.weebly.com/">Pacific Institute for Complex Systems (PICS)</a>
+Come join our discussions about complex systems at the  [Pacific Institute for Complex Systems (PICS)](https://picsosu.weebly.com/)
 
 ## We Study
 We are lucky to have funding from a number of sources to facilitate research on a wide range of topics. Projects have been funded by NSF, NOAA, NASA, DARPA for example. The main general topics that our research focuses on include:

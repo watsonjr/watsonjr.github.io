@@ -17,8 +17,8 @@ _email:_ james.watson@oregonstate.edu<br>
 [Google Scholar](https://scholar.google.se/citations?user=LHQ0BPkAAAAJ&hl=en)<br>
 
 __CEO and Co-Founder__<br>
-The Prediction Lab LLC.<br>
-A think and do tank that solves hard problems using tools from mathematics and computer science. Visit our [Website](https://thepredictionlab.com/)<br>
+ClearWater Analytica<br>
+An environmental data science company that makes predictions of harmful algal blooms in lakes and reservoirs. Visit our [Website](https://www.clrwater.io/)<br>
 
 __Education and Professional Appointments__<br>
 BSc Biochemistry, University of Bristol, UK, 1998-2001<br>
