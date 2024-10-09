@@ -40,14 +40,14 @@ John has expertise in resource economics, data science, climate adaptation, harm
 <br>
 <br>
 
-<img style="float: right" src="so-simple-sample-image-5.jpg" width="20%" />
+<img style="float: right" src="Meunier_Zech.jpg" width="20%" />
 2018 -- **Zech Meunier**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
-TBD.
+Zech studies resilience in marine ecosystems using field experiments, big environmental data, and tools from machine learning, statistics, and dynamical systems theory.
 <br>
 <br>
 <br>
 
-<img style="float: right" src="so-simple-sample-image-5.jpg" width="20%" />
+<img style="float: right" src="bio-photo.jpg" width="20%" />
 2018 -- **Jack Buckner**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 TBD.
 <br>
@@ -55,7 +55,7 @@ TBD.
 <br>
 
 ## PhD Students
-<img style="float: right" src="so-simple-sample-image-7.jpg" width="20%" />
+<img style="float: right" src="bio-photo.jpg" width="20%" />
 2020 -- **Thansis**, PhD student in Geography, Oregon State University.<br>
 TBD.
 <br>
@@ -63,7 +63,7 @@ TBD.
 <br>
 
 <br>
-<img style="float: right" src="so-simple-sample-image-7.jpg" width="20%" />
+<img style="float: right" src="bio-photo.jpg" width="20%" />
 2020 -- **Lisa Thompson**, PhD student in Environmental Science, Oregon State University.<br>
 TBD.
 <br>
@@ -71,7 +71,7 @@ TBD.
 <br>
 
 <br>
-<img style="float: right" src="so-simple-sample-image-7.jpg" width="20%" />
+<img style="float: right" src="bio-photo.jpg" width="20%" />
 2020 -- **Kunal**, PhD student in Environmental Science, Oregon State University.<br>
 TBD.
 <br>
@@ -87,7 +87,7 @@ Val researches the entanglement between the physical and social dimensions of cl
 <br>
 
 ## Masters Students
-<img style="float: right" src="Keiko_photo.JPG" width="20%" />
+<img style="float: right" src="IMG_3004.JPG" width="20%" />
 2020 -- **Alpha Lo**, MS student in Geography, Oregon State University.<br>
 Alpha studyies how land restoration can restore rain, how earth self-regulates itself through the hydrological cycle, the hydrological cycle as complex system, and how groundwater lessens wildfire.
 <br>
@@ -95,7 +95,7 @@ Alpha studyies how land restoration can restore rain, how earth self-regulates i
 <br>
 
 <br>
-<img style="float: right" src="Mihir_photo.jpg" width="20%" />
+<img style="float: right" src="bio-photo.jpg" width="20%" />
 2019 -- **Oscar Wrecker**, MS student in Geography, Oregon State University. <br>
 TBD.
 
@@ -109,13 +109,16 @@ Mihir is interested in the impact of climate change on shifting species range di
 -->
 
 ## Former Lab Members
-__Keiko Nomura__, 2018-2022, PhD, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
+__Keiko Nomura__, 2019-2024, PhD, College of Earth, Ocean and Atmospheric Sciences, Oregon State University (also completed an MS in Marine Resource Management).<br>
+__Nico Gonzalez__, 2019-2021, MS, Marine Resource Management, Oregon State University.<br>
+__Shannon Hennessey__, 2019-2021, Post-doc, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
+__Ernesto Villarino__, 2019-2021, Post-doc, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
+__Mihir Joshi__, 2018-2021, High School Student (research experience), College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 __Anne Devan Song__, 2018-2022, PhD, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 __Ciera Villegas__, 2017-2022, PhD, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 __Steven Johnson__, 2017-2022, PhD, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 __George Hagstrom__, 2020, Post-doc, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 __Srikar Valluri__, 2020, BS, Computer Science, Oregon State University.<br>
-__Ginny Katz__, 2018-2022, PhD, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 __Nicolás Gómez-Andúja__, 2019-2021, MS, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 __Shannon Hennessey__, 2020-2021, Post-doc, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 __Ernesto Villarino__, 2018-2021, Post-doc, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
