@@ -9,7 +9,7 @@ image:
 
 
 ## James R. Watson
-<img style="float: right" src="James-26.jpg" width="43%" />
+<img style="float: right" src="James-26.jpg" width="30%" />
 __Associate Professor__<br>
 College of Earth, Ocean and Atmospheric Sciences<br>
 Oregon State University, USA<br>
@@ -32,7 +32,7 @@ Forskare, Stockholm Resilience Centre, Sweden, 2014-2017<br>
 Assistant Professor, Oregon State University, OR, USA, 2017-2022<br>
 Associate Professor, Oregon State University, OR, USA, 2022-present<br>
 
-## Post-docs
+## Post-docs + Research Associates
 <img style="float: right" src="John_photo.png" width="20%" />
 2018 -- **A. John Woodill**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 John has expertise in resource economics, data science, climate adaptation, harmful algal blooms, predicting and measuring the impacts of illegal fishing.
@@ -40,10 +40,40 @@ John has expertise in resource economics, data science, climate adaptation, harm
 <br>
 <br>
 
+<img style="float: right" src="so-simple-sample-image-5.jpg" width="20%" />
+2018 -- **Zech Meunier**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
+TBD.
+<br>
+<br>
+<br>
+
+<img style="float: right" src="so-simple-sample-image-5.jpg" width="20%" />
+2018 -- **Jack Buckner**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
+TBD.
+<br>
+<br>
+<br>
+
 ## PhD Students
-<img style="float: right" src="Keiko_photo.JPG" width="20%" />
-2020 -- **Keiko Nomura**, PhD student in Geography, Oregon State University.<br>
-Keiko researches (outer) space, sports and the sea through the lens of Complex Adaptive Systems theory.
+<img style="float: right" src="so-simple-sample-image-7.jpg" width="20%" />
+2020 -- **Thansis**, PhD student in Geography, Oregon State University.<br>
+TBD.
+<br>
+<br>
+<br>
+
+<br>
+<img style="float: right" src="so-simple-sample-image-7.jpg" width="20%" />
+2020 -- **Lisa Thompson**, PhD student in Environmental Science, Oregon State University.<br>
+TBD.
+<br>
+<br>
+<br>
+
+<br>
+<img style="float: right" src="so-simple-sample-image-7.jpg" width="20%" />
+2020 -- **Kunal**, PhD student in Environmental Science, Oregon State University.<br>
+TBD.
 <br>
 <br>
 <br>
@@ -56,14 +86,30 @@ Val researches the entanglement between the physical and social dimensions of cl
 <br>
 <br>
 
+## Masters Students
+<img style="float: right" src="Keiko_photo.JPG" width="20%" />
+2020 -- **Alpha Lo**, MS student in Geography, Oregon State University.<br>
+Alpha studyies how land restoration can restore rain, how earth self-regulates itself through the hydrological cycle, the hydrological cycle as complex system, and how groundwater lessens wildfire.
+<br>
+<br>
+<br>
 
+<br>
+<img style="float: right" src="Mihir_photo.jpg" width="20%" />
+2019 -- **Oscar Wrecker**, MS student in Geography, Oregon State University. <br>
+TBD.
+
+
+
+<!--
 ## Junior Researchers
 <img style="float: right" src="Mihir_photo.jpg" width="20%" />
 2019 -- **Mihir Joshi**, High school student, Salem. <br>
 Mihir is interested in the impact of climate change on shifting species range distributions. Specifically, Mihir focuses on marine organisms and the role that marine protected areas will play in buffering the impacts of climate change.
-
+-->
 
 ## Former Lab Members
+__Keiko Nomura__, 2018-2022, PhD, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 __Anne Devan Song__, 2018-2022, PhD, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 __Ciera Villegas__, 2017-2022, PhD, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 __Steven Johnson__, 2017-2022, PhD, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
