@@ -40,7 +40,7 @@ John has expertise in resource economics, data science, climate adaptation, harm
 <br>
 <br>
 
-<img style="float: right" src="Meunier_Zech.jpg" width="20%" />
+<img style="float: right" src="Zech_photo.jpg" width="20%" />
 2018 -- **Zech Meunier**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 Zech studies resilience in marine ecosystems using field experiments, big environmental data, and tools from machine learning, statistics, and dynamical systems theory.
 <br>
@@ -56,7 +56,7 @@ TBD.
 
 ## PhD Students
 <img style="float: right" src="bio-photo.jpg" width="20%" />
-2020 -- **Thansis**, PhD student in Geography, Oregon State University.<br>
+2020 -- **Thanasis Karageorgos**, PhD student in Geography, Oregon State University.<br>
 TBD.
 <br>
 <br>
@@ -72,7 +72,7 @@ TBD.
 
 <br>
 <img style="float: right" src="bio-photo.jpg" width="20%" />
-2020 -- **Kunal**, PhD student in Environmental Science, Oregon State University.<br>
+2020 -- **Kunal Rathore**, PhD student in Environmental Science, Oregon State University.<br>
 TBD.
 <br>
 <br>
@@ -87,7 +87,7 @@ Val researches the entanglement between the physical and social dimensions of cl
 <br>
 
 ## Masters Students
-<img style="float: right" src="IMG_3004.JPG" width="20%" />
+<img style="float: right" src="Alpha_photo.JPG" width="20%" />
 2020 -- **Alpha Lo**, MS student in Geography, Oregon State University.<br>
 Alpha studyies how land restoration can restore rain, how earth self-regulates itself through the hydrological cycle, the hydrological cycle as complex system, and how groundwater lessens wildfire.
 <br>
