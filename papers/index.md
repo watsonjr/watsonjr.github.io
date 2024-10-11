@@ -7,8 +7,10 @@ image:
   feature: IMG_5420.jpg
   credit: Jodi Elliott
 ---
-To see most of our latest publications head here:
+To see James' latest publications head here:
 [Google Scholar](https://scholar.google.se/citations?user=LHQ0BPkAAAAJ&hl=en)<br>
+
+For papers published by others in the lab head to their personal webpages and/or google scholar.
 
 <!--
 [broadest field for categorization] <br/>
