@@ -87,9 +87,11 @@ Val researches the entanglement between the physical and social dimensions of cl
 <br>
 
 ## Masters Students
-<img style="float: right" src="Alpha_photo.JPG" width="20%" />
+<img style="float: right" src="Alpha_photo.jpg" width="20%" />
 2020 -- **Alpha Lo**, MS student in Geography, Oregon State University.<br>
 Alpha studyies how land restoration can restore rain, how earth self-regulates itself through the hydrological cycle, the hydrological cycle as complex system, and how groundwater lessens wildfire.
+<br>
+<br>
 
 <!--
 ## Junior Researchers
