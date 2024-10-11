@@ -98,6 +98,8 @@ Val researches the entanglement between the physical and social dimensions of cl
 Alpha studyies how land restoration can restore rain, how earth self-regulates itself through the hydrological cycle, the hydrological cycle as complex system, and how groundwater lessens wildfire.
 <br>
 <br>
+<br>
+<br>
 
 <!--
 ## Junior Researchers
