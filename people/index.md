@@ -62,7 +62,7 @@ TBD.
 
 ## PhD Students
 <img style="float: right" src="TK_photo.jpg" width="20%" />
-2020 -- **Thanasis Karageorgos**, PhD student in Geography, Oregon State University.<br>
+2024 -- **Thanasis Karageorgos**, PhD student in Geography, Oregon State University.<br>
 Thanasis researches trade-offs between different coastal users and security sectors, with the overall aim being to contribute towards a sustainable, socially equitable future. His current research focuses on how to maximize the energy yield of Offshore Wind Farms while minimizing the impacts on fisheries.
 <br>
 <br>
