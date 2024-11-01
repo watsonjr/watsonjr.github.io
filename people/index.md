@@ -77,9 +77,9 @@ TBD.
 <br>
 
 <br>
-<img style="float: right" src="bio-photo.jpg" width="20%" />
+<img style="float: right" src="Kunal_photo.png" width="20%" />
 2020 -- **Kunal Rathore**, PhD student in Environmental Science, Oregon State University.<br>
-TBD.
+Kunal works on the interdisciplinary application of Artificial Intelligence (AI). His current research focuses on developing hybrid Scientific Machine Learning (SciML) models in ecology and Harmful Algal Blooms (HABs). He has also developed explainable AI methods for computer vision models, particularly symbolic approaches. Kunal has experience in data modeling, designing, and developing pipelines for GenerativeAI (LLM) models as enterprise applications. More about him at https://kjrathore.github.io/.
 <br>
 <br>
 <br>
