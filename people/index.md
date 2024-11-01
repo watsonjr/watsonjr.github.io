@@ -47,15 +47,15 @@ John has expertise in resource economics, data science, climate adaptation, harm
 <br>
 
 <img style="float: right" src="Zech_photo.jpg" width="20%" />
-2018 -- **Zech Meunier**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
+2023 -- **Zech Meunier**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 Zech studies resilience in marine ecosystems using field experiments, big environmental data, and tools from machine learning, statistics, and dynamical systems theory.
 <br>
 <br>
 <br>
 
-<img style="float: right" src="bio-photo.jpg" width="20%" />
-2018 -- **Jack Buckner**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
-TBD.
+<img style="float: right" src="Jack_photo.png" width="20%" />
+2023 -- **Jack Buckner**, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
+Jack researches solutions for applied conservation and resource management problems using tools from theoretical ecology, resource economics and machine learning.
 <br>
 <br>
 <br>
