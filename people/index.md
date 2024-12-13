@@ -110,8 +110,6 @@ Mihir is interested in the impact of climate change on shifting species range di
 
 ## Former Lab Members
 __Keiko Nomura__, 2019-2024, PhD, College of Earth, Ocean and Atmospheric Sciences, Oregon State University (also completed an MS in Marine Resource Management).<br>
-__Nico Gonzalez__, 2019-2021, MS, Marine Resource Management, Oregon State University.<br>
-__Shannon Hennessey__, 2019-2021, Post-doc, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 __Ernesto Villarino__, 2019-2021, Post-doc, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 __Mihir Joshi__, 2018-2021, High School Student (research experience), College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
 __Anne Devan Song__, 2018-2022, PhD, College of Earth, Ocean and Atmospheric Sciences, Oregon State University.<br>
