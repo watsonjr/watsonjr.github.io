@@ -69,9 +69,9 @@ Thanasis researches trade-offs between different coastal users and security sect
 <br>
 
 <br>
-<img style="float: right" src="bio-photo.jpg" width="20%" />
+<img style="float: right" src="Lisa_photo.jpg" width="20%" />
 2020 -- **Lisa Thompson**, PhD student in Environmental Science, Oregon State University.<br>
-TBD.
+Lisa researches how satellite data can be leveraged to better understand vessel behavior and adaptation to policies and environmental factors. Her work focuses on improving understanding of vessel behavior in Alaska’s fisheries, evaluating data accuracy, and exploring interactions between fishing vessels and law enforcement/ naval vessels. She aims to support fisheries management policies and address global challenges like climate change and maritime competition..
 <br>
 <br>
 <br>
